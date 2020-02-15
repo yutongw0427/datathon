@@ -16,7 +16,6 @@ import seaborn as sb
 from plotnine import *
 
 # ------------------------------Read Data---------------------------------
-
 import glob
 # -----IMPORTANT! CSV FILES ARE UNDER THE SAME FOLDER WITH PY CODE!-------
 file_name = []
@@ -29,7 +28,7 @@ dfs = [pd.read_csv(f, skiprows=2, header=None) for f in file_name]
 raw_data=pd.concat(dfs, ignore_index = True)
 raw_data.head(10)
 
-# ADD COLUMNS NAMES
+# ------------------------ADD COLUMNS NAMES--------------------------------
 raw_data.columns = ['GEO_id', 'GEO_id2', 'GEO_display_label', 'NAICS_id', 
                     'NAICS_display_label', 'RCPSZFE_id', 'RCPSZFE_display_label', 'YEAR_id','ESTAB']
 
@@ -43,6 +42,8 @@ raw_data['zip_naics'] = raw_data['zipcode'].astype(str)+'_'+raw_data['NAICS_id']
 naics_dict = pd.Series(raw_data['NAICS_display_label'].values,index=raw_data['NAICS_id']).to_dict()
 zip_dict = pd.Series(raw_data['city_state'].values,index=raw_data['zipcode']).to_dict()
 
+
+#--------------------------pivot table transformation-----------------------
 # DATA: PIVOT: ROWS--->COLUMNS, NEW COLUMN WILL BE THE RCPSZFE_id
 data=pd.DataFrame(raw_data.pivot(index='zip_naics', columns='RCPSZFE_id',values='ESTAB'))
 data=data.fillna(0)
@@ -56,21 +57,8 @@ data[['zipcode','naics']] = data.zip_naics.str.split('_',expand=True)
 data['industry']=data['naics'].map(naics_dict)
 data['city_state'] = data['zipcode'].map(zip_dict)
 data[['city','state']] = data['city_state'].str.split(', ', expand = True)
-data.head()
-
-
-
-#--------------------------pivot table transformation-----------------------
-raw_data['GEO_NAICS'] = raw_data['GEO_id2'].astype(str)+'_'+raw_data['NAICS_id'].astype(str)
-
-data=pd.DataFrame(raw_data.pivot(index='GEO_NAICS', columns='RCPSZFE_id',values='ESTAB'))
-data = data.fillna(0)
-data=data.reset_index()
-data[['zipcode','naics']] = data.GEO_NAICS.str.split('_', expand=True)
-data['industry']=data['naics'].map(naics_dict)
-data['city_state'] = data['zipcode'].map(zip_dict)
 
 #------------------------compute score ------------------------
 data['score'] = data[123]*175+data[125]*375 + data[131]*750 + data[132]*1500
 
-
+data.head()
