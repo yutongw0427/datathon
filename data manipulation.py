@@ -57,10 +57,13 @@ for col in ['GEO_id2', 'RCPSZFE_id', 'YEAR_id']:
     raw_data[col] = raw_data[col].astype('object')
 raw_data.dtypes
 
+#--------------------------pivot table transformation-----------------------
+raw_data['GEO_NAICS'] = raw_data['GEO_id2'].astype(str)+'_'+raw_data['NAICS_id'].astype(str)
 
-
-
-
+data=pd.DataFrame(raw_data.pivot(index='GEO_NAICS', columns='RCPSZFE_id',values='ESTAB'))
+data = data.fillna(0)
+data=data.reset_index()
+data[['zipcode','naics']] = data.GEO_NAICS.str.split('_', expand=True)
 
 
 
