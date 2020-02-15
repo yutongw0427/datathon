@@ -1,1269 +1,1269 @@
-﻿Zip,City,State,LineCode,"IndustryName
+﻿FIPS,County,State,LineCode,"IndustryName
 ",GDP_2012
-01001,Autauga,AL,1,All Industries,1383941
-01001,Autauga,AL,2,  Private goods-producing industries,286396
-01001,Autauga,AL,3,  Private services-providing industries,948490
-01001,Autauga,AL,4,  Government and government enterprises,149055
-01003,Baldwin,AL,1,All Industries,5599194
-01003,Baldwin,AL,2,  Private goods-producing industries,681871
-01003,Baldwin,AL,3,  Private services-providing industries,4306173
-01003,Baldwin,AL,4,  Government and government enterprises,611151
-01005,Barbour,AL,1,All Industries,639833
-01005,Barbour,AL,2,  Private goods-producing industries,253232
-01005,Barbour,AL,3,  Private services-providing industries,274894
-01005,Barbour,AL,4,  Government and government enterprises,111707
-01007,Bibb,AL,1,All Industries,297560
-01007,Bibb,AL,2,  Private goods-producing industries,98048
-01007,Bibb,AL,3,  Private services-providing industries,116767
-01007,Bibb,AL,4,  Government and government enterprises,82746
-01009,Blount,AL,1,All Industries,632761
-01009,Blount,AL,2,  Private goods-producing industries,187947
-01009,Blount,AL,3,  Private services-providing industries,310042
-01009,Blount,AL,4,  Government and government enterprises,134773
-01011,Bullock,AL,1,All Industries,191052
-01011,Bullock,AL,2,  Private goods-producing industries,67063
-01011,Bullock,AL,3,  Private services-providing industries,78889
-01011,Bullock,AL,4,  Government and government enterprises,45101
-01013,Butler,AL,1,All Industries,514216
-01013,Butler,AL,2,  Private goods-producing industries,189427
-01013,Butler,AL,3,  Private services-providing industries,263801
-01013,Butler,AL,4,  Government and government enterprises,60988
-01015,Calhoun,AL,1,All Industries,4073476
-01015,Calhoun,AL,2,  Private goods-producing industries,1051376
-01015,Calhoun,AL,3,  Private services-providing industries,1951870
-01015,Calhoun,AL,4,  Government and government enterprises,1070229
-01017,Chambers,AL,1,All Industries,567650
-01017,Chambers,AL,2,  Private goods-producing industries,177977
-01017,Chambers,AL,3,  Private services-providing industries,301425
-01017,Chambers,AL,4,  Government and government enterprises,88248
-01019,Cherokee,AL,1,All Industries,443582
-01019,Cherokee,AL,2,  Private goods-producing industries,153006
-01019,Cherokee,AL,3,  Private services-providing industries,212307
-01019,Cherokee,AL,4,  Government and government enterprises,78269
-01021,Chilton,AL,1,All Industries,715347
-01021,Chilton,AL,2,  Private goods-producing industries,265515
-01021,Chilton,AL,3,  Private services-providing industries,332066
-01021,Chilton,AL,4,  Government and government enterprises,117766
-01023,Choctaw,AL,1,All Industries,524082
-01023,Choctaw,AL,2,  Private goods-producing industries,341606
-01023,Choctaw,AL,3,  Private services-providing industries,150470
-01023,Choctaw,AL,4,  Government and government enterprises,32005
-01025,Clarke,AL,1,All Industries,700361
-01025,Clarke,AL,2,  Private goods-producing industries,302916
-01025,Clarke,AL,3,  Private services-providing industries,277638
-01025,Clarke,AL,4,  Government and government enterprises,119807
-01027,Clay,AL,1,All Industries,232085
-01027,Clay,AL,2,  Private goods-producing industries,107983
-01027,Clay,AL,3,  Private services-providing industries,69458
-01027,Clay,AL,4,  Government and government enterprises,54644
-01029,Cleburne,AL,1,All Industries,249914
-01029,Cleburne,AL,2,  Private goods-producing industries,117192
-01029,Cleburne,AL,3,  Private services-providing industries,82396
-01029,Cleburne,AL,4,  Government and government enterprises,50326
-01031,Coffee,AL,1,All Industries,1084201
-01031,Coffee,AL,2,  Private goods-producing industries,265330
-01031,Coffee,AL,3,  Private services-providing industries,644616
-01031,Coffee,AL,4,  Government and government enterprises,174255
-01033,Colbert,AL,1,All Industries,2393641
-01033,Colbert,AL,2,  Private goods-producing industries,968437
-01033,Colbert,AL,3,  Private services-providing industries,1004799
-01033,Colbert,AL,4,  Government and government enterprises,420405
-01035,Conecuh,AL,1,All Industries,256668
-01035,Conecuh,AL,2,  Private goods-producing industries,80752
-01035,Conecuh,AL,3,  Private services-providing industries,125321
-01035,Conecuh,AL,4,  Government and government enterprises,50595
-01037,Coosa,AL,1,All Industries,118371
-01037,Coosa,AL,2,  Private goods-producing industries,55985
-01037,Coosa,AL,3,  Private services-providing industries,39418
-01037,Coosa,AL,4,  Government and government enterprises,22968
-01039,Covington,AL,1,All Industries,978150
-01039,Covington,AL,2,  Private goods-producing industries,264628
-01039,Covington,AL,3,  Private services-providing industries,578392
-01039,Covington,AL,4,  Government and government enterprises,135130
-01041,Crenshaw,AL,1,All Industries,387037
-01041,Crenshaw,AL,2,  Private goods-producing industries,209695
-01041,Crenshaw,AL,3,  Private services-providing industries,139594
-01041,Crenshaw,AL,4,  Government and government enterprises,37748
-01043,Cullman,AL,1,All Industries,2301223
-01043,Cullman,AL,2,  Private goods-producing industries,859961
-01043,Cullman,AL,3,  Private services-providing industries,1178570
-01043,Cullman,AL,4,  Government and government enterprises,262692
-01045,Dale,AL,1,All Industries,2756921
-01045,Dale,AL,2,  Private goods-producing industries,655960
-01045,Dale,AL,3,  Private services-providing industries,544124
-01045,Dale,AL,4,  Government and government enterprises,1556837
-01047,Dallas,AL,1,All Industries,1125070
-01047,Dallas,AL,2,  Private goods-producing industries,466732
-01047,Dallas,AL,3,  Private services-providing industries,482901
-01047,Dallas,AL,4,  Government and government enterprises,175436
-01049,DeKalb,AL,1,All Industries,1485948
-01049,DeKalb,AL,2,  Private goods-producing industries,621541
-01049,DeKalb,AL,3,  Private services-providing industries,653821
-01049,DeKalb,AL,4,  Government and government enterprises,210586
-01051,Elmore,AL,1,All Industries,1396129
-01051,Elmore,AL,2,  Private goods-producing industries,367682
-01051,Elmore,AL,3,  Private services-providing industries,761650
-01051,Elmore,AL,4,  Government and government enterprises,266798
-01053,Escambia,AL,1,All Industries,1056880
-01053,Escambia,AL,2,  Private goods-producing industries,409352
-01053,Escambia,AL,3,  Private services-providing industries,405797
-01053,Escambia,AL,4,  Government and government enterprises,241730
-01055,Etowah,AL,1,All Industries,2607155
-01055,Etowah,AL,2,  Private goods-producing industries,598902
-01055,Etowah,AL,3,  Private services-providing industries,1646083
-01055,Etowah,AL,4,  Government and government enterprises,362171
-01057,Fayette,AL,1,All Industries,260930
-01057,Fayette,AL,2,  Private goods-producing industries,77155
-01057,Fayette,AL,3,  Private services-providing industries,111764
-01057,Fayette,AL,4,  Government and government enterprises,72012
-01059,Franklin,AL,1,All Industries,720181
-01059,Franklin,AL,2,  Private goods-producing industries,338431
-01059,Franklin,AL,3,  Private services-providing industries,261817
-01059,Franklin,AL,4,  Government and government enterprises,119932
-01061,Geneva,AL,1,All Industries,406627
-01061,Geneva,AL,2,  Private goods-producing industries,109883
-01061,Geneva,AL,3,  Private services-providing industries,211232
-01061,Geneva,AL,4,  Government and government enterprises,85512
-01063,Greene,AL,1,All Industries,246604
-01063,Greene,AL,2,  Private goods-producing industries,83883
-01063,Greene,AL,3,  Private services-providing industries,126516
-01063,Greene,AL,4,  Government and government enterprises,36205
-01065,Hale,AL,1,All Industries,226473
-01065,Hale,AL,2,  Private goods-producing industries,96228
-01065,Hale,AL,3,  Private services-providing industries,75600
-01065,Hale,AL,4,  Government and government enterprises,54645
-01067,Henry,AL,1,All Industries,259333
-01067,Henry,AL,2,  Private goods-producing industries,90180
-01067,Henry,AL,3,  Private services-providing industries,124227
-01067,Henry,AL,4,  Government and government enterprises,44926
-01069,Houston,AL,1,All Industries,4122576
-01069,Houston,AL,2,  Private goods-producing industries,631558
-01069,Houston,AL,3,  Private services-providing industries,2911756
-01069,Houston,AL,4,  Government and government enterprises,579262
-01071,Jackson,AL,1,All Industries,1327414
-01071,Jackson,AL,2,  Private goods-producing industries,469944
-01071,Jackson,AL,3,  Private services-providing industries,591884
-01071,Jackson,AL,4,  Government and government enterprises,265586
-01073,Jefferson,AL,1,All Industries,42005734
-01073,Jefferson,AL,2,  Private goods-producing industries,6416092
-01073,Jefferson,AL,3,  Private services-providing industries,30607156
-01073,Jefferson,AL,4,  Government and government enterprises,4982486
-01075,Lamar,AL,1,All Industries,276202
-01075,Lamar,AL,2,  Private goods-producing industries,103073
-01075,Lamar,AL,3,  Private services-providing industries,134240
-01075,Lamar,AL,4,  Government and government enterprises,38889
-01077,Lauderdale,AL,1,All Industries,2325961
-01077,Lauderdale,AL,2,  Private goods-producing industries,462457
-01077,Lauderdale,AL,3,  Private services-providing industries,1512987
-01077,Lauderdale,AL,4,  Government and government enterprises,350517
-01079,Lawrence,AL,1,All Industries,728868
-01079,Lawrence,AL,2,  Private goods-producing industries,401170
-01079,Lawrence,AL,3,  Private services-providing industries,234216
-01079,Lawrence,AL,4,  Government and government enterprises,93482
-01081,Lee,AL,1,All Industries,4668575
-01081,Lee,AL,2,  Private goods-producing industries,1106972
-01081,Lee,AL,3,  Private services-providing industries,2371808
-01081,Lee,AL,4,  Government and government enterprises,1189795
-01083,Limestone,AL,1,All Industries,2704953
-01083,Limestone,AL,2,  Private goods-producing industries,557918
-01083,Limestone,AL,3,  Private services-providing industries,1512480
-01083,Limestone,AL,4,  Government and government enterprises,634555
-01085,Lowndes,AL,1,All Industries,357630
-01085,Lowndes,AL,2,  Private goods-producing industries,233516
-01085,Lowndes,AL,3,  Private services-providing industries,85291
-01085,Lowndes,AL,4,  Government and government enterprises,38823
-01087,Macon,AL,1,All Industries,437454
-01087,Macon,AL,2,  Private goods-producing industries,70512
-01087,Macon,AL,3,  Private services-providing industries,124548
-01087,Macon,AL,4,  Government and government enterprises,242395
-01089,Madison,AL,1,All Industries,20870718
-01089,Madison,AL,2,  Private goods-producing industries,3367392
-01089,Madison,AL,3,  Private services-providing industries,12140810
-01089,Madison,AL,4,  Government and government enterprises,5362516
-01091,Marengo,AL,1,All Industries,574835
-01091,Marengo,AL,2,  Private goods-producing industries,248779
-01091,Marengo,AL,3,  Private services-providing industries,222303
-01091,Marengo,AL,4,  Government and government enterprises,103752
-01093,Marion,AL,1,All Industries,694213
-01093,Marion,AL,2,  Private goods-producing industries,289157
-01093,Marion,AL,3,  Private services-providing industries,305917
-01093,Marion,AL,4,  Government and government enterprises,99139
-01095,Marshall,AL,1,All Industries,2576840
-01095,Marshall,AL,2,  Private goods-producing industries,909728
-01095,Marshall,AL,3,  Private services-providing industries,1277830
-01095,Marshall,AL,4,  Government and government enterprises,389282
-01097,Mobile,AL,1,All Industries,17983867
-01097,Mobile,AL,2,  Private goods-producing industries,4739805
-01097,Mobile,AL,3,  Private services-providing industries,10997922
-01097,Mobile,AL,4,  Government and government enterprises,2246139
-01099,Monroe,AL,1,All Industries,623195
-01099,Monroe,AL,2,  Private goods-producing industries,241145
-01099,Monroe,AL,3,  Private services-providing industries,290964
-01099,Monroe,AL,4,  Government and government enterprises,91087
-01101,Montgomery,AL,1,All Industries,13104289
-01101,Montgomery,AL,2,  Private goods-producing industries,1631294
-01101,Montgomery,AL,3,  Private services-providing industries,7887464
-01101,Montgomery,AL,4,  Government and government enterprises,3585531
-01103,Morgan,AL,1,All Industries,4183977
-01103,Morgan,AL,2,  Private goods-producing industries,1601198
-01103,Morgan,AL,3,  Private services-providing industries,2070127
-01103,Morgan,AL,4,  Government and government enterprises,512652
-01105,Perry,AL,1,All Industries,179161
-01105,Perry,AL,2,  Private goods-producing industries,76322
-01105,Perry,AL,3,  Private services-providing industries,63272
-01105,Perry,AL,4,  Government and government enterprises,39567
-01107,Pickens,AL,1,All Industries,274572
-01107,Pickens,AL,2,  Private goods-producing industries,95807
-01107,Pickens,AL,3,  Private services-providing industries,122349
-01107,Pickens,AL,4,  Government and government enterprises,56416
-01109,Pike,AL,1,All Industries,1142083
-01109,Pike,AL,2,  Private goods-producing industries,370461
-01109,Pike,AL,3,  Private services-providing industries,570229
-01109,Pike,AL,4,  Government and government enterprises,201392
-01111,Randolph,AL,1,All Industries,335720
-01111,Randolph,AL,2,  Private goods-producing industries,111289
-01111,Randolph,AL,3,  Private services-providing industries,152078
-01111,Randolph,AL,4,  Government and government enterprises,72353
-01113,Russell,AL,1,All Industries,1201079
-01113,Russell,AL,2,  Private goods-producing industries,432317
-01113,Russell,AL,3,  Private services-providing industries,591633
-01113,Russell,AL,4,  Government and government enterprises,177128
-01115,St. Clair,AL,1,All Industries,1458587
-01115,St. Clair,AL,2,  Private goods-producing industries,474813
-01115,St. Clair,AL,3,  Private services-providing industries,781229
-01115,St. Clair,AL,4,  Government and government enterprises,202545
-01117,Shelby,AL,1,All Industries,8391914
-01117,Shelby,AL,2,  Private goods-producing industries,923932
-01117,Shelby,AL,3,  Private services-providing industries,6881428
-01117,Shelby,AL,4,  Government and government enterprises,586553
-01119,Sumter,AL,1,All Industries,240325
-01119,Sumter,AL,2,  Private goods-producing industries,56550
-01119,Sumter,AL,3,  Private services-providing industries,101195
-01119,Sumter,AL,4,  Government and government enterprises,82580
-01121,Talladega,AL,1,All Industries,2422265
-01121,Talladega,AL,2,  Private goods-producing industries,1155173
-01121,Talladega,AL,3,  Private services-providing industries,914133
-01121,Talladega,AL,4,  Government and government enterprises,352959
-01123,Tallapoosa,AL,1,All Industries,1004256
-01123,Tallapoosa,AL,2,  Private goods-producing industries,241543
-01123,Tallapoosa,AL,3,  Private services-providing industries,625233
-01123,Tallapoosa,AL,4,  Government and government enterprises,137480
-01125,Tuscaloosa,AL,1,All Industries,10199891
-01125,Tuscaloosa,AL,2,  Private goods-producing industries,3983648
-01125,Tuscaloosa,AL,3,  Private services-providing industries,4437667
-01125,Tuscaloosa,AL,4,  Government and government enterprises,1778575
-01127,Walker,AL,1,All Industries,1577706
-01127,Walker,AL,2,  Private goods-producing industries,392729
-01127,Walker,AL,3,  Private services-providing industries,974893
-01127,Walker,AL,4,  Government and government enterprises,210083
-01129,Washington,AL,1,All Industries,690145
-01129,Washington,AL,2,  Private goods-producing industries,439291
-01129,Washington,AL,3,  Private services-providing industries,194887
-01129,Washington,AL,4,  Government and government enterprises,55966
-01131,Wilcox,AL,1,All Industries,296863
-01131,Wilcox,AL,2,  Private goods-producing industries,140085
-01131,Wilcox,AL,3,  Private services-providing industries,109130
-01131,Wilcox,AL,4,  Government and government enterprises,47647
-01133,Winston,AL,1,All Industries,484525
-01133,Winston,AL,2,  Private goods-producing industries,216467
-01133,Winston,AL,3,  Private services-providing industries,194564
-01133,Winston,AL,4,  Government and government enterprises,73494
-02013,Aleutians East Borough,AK,1,All Industries,111032
-02013,Aleutians East Borough,AK,2,  Private goods-producing industries,69349
-02013,Aleutians East Borough,AK,3,  Private services-providing industries,20561
-02013,Aleutians East Borough,AK,4,  Government and government enterprises,21122
-02016,Aleutians West Census Area,AK,1,All Industries,363807
-02016,Aleutians West Census Area,AK,2,  Private goods-producing industries,166527
-02016,Aleutians West Census Area,AK,3,  Private services-providing industries,149508
-02016,Aleutians West Census Area,AK,4,  Government and government enterprises,47772
-02020,Anchorage Municipality,AK,1,All Industries,27571441
-02020,Anchorage Municipality,AK,2,  Private goods-producing industries,8312936
-02020,Anchorage Municipality,AK,3,  Private services-providing industries,14758020
-02020,Anchorage Municipality,AK,4,  Government and government enterprises,4500485
-02050,Bethel Census Area,AK,1,All Industries,699678
-02050,Bethel Census Area,AK,2,  Private goods-producing industries,25683
-02050,Bethel Census Area,AK,3,  Private services-providing industries,450469
-02050,Bethel Census Area,AK,4,  Government and government enterprises,223526
-02060,Bristol Bay Borough,AK,1,All Industries,104109
-02060,Bristol Bay Borough,AK,2,  Private goods-producing industries,39126
-02060,Bristol Bay Borough,AK,3,  Private services-providing industries,40665
-02060,Bristol Bay Borough,AK,4,  Government and government enterprises,24318
-02068,Denali Borough,AK,1,All Industries,254910
-02068,Denali Borough,AK,2,  Private goods-producing industries,100804
-02068,Denali Borough,AK,3,  Private services-providing industries,115321
-02068,Denali Borough,AK,4,  Government and government enterprises,38785
-02070,Dillingham Census Area,AK,1,All Industries,224497
-02070,Dillingham Census Area,AK,2,  Private goods-producing industries,37812
-02070,Dillingham Census Area,AK,3,  Private services-providing industries,131651
-02070,Dillingham Census Area,AK,4,  Government and government enterprises,55034
-02090,Fairbanks North Star Borough,AK,1,All Industries,5489188
-02090,Fairbanks North Star Borough,AK,2,  Private goods-producing industries,952516
-02090,Fairbanks North Star Borough,AK,3,  Private services-providing industries,2565890
-02090,Fairbanks North Star Borough,AK,4,  Government and government enterprises,1970781
-02100,Haines Borough,AK,1,All Industries,64685
-02100,Haines Borough,AK,2,  Private goods-producing industries,14909
-02100,Haines Borough,AK,3,  Private services-providing industries,33450
-02100,Haines Borough,AK,4,  Government and government enterprises,16326
-02105,Hoonah-Angoon Census Area,AK,1,All Industries,54407
-02105,Hoonah-Angoon Census Area,AK,2,  Private goods-producing industries,3750
-02105,Hoonah-Angoon Census Area,AK,3,  Private services-providing industries,22248
-02105,Hoonah-Angoon Census Area,AK,4,  Government and government enterprises,28409
-02110,Juneau City and Borough,AK,1,All Industries,2279424
-02110,Juneau City and Borough,AK,2,  Private goods-producing industries,625967
-02110,Juneau City and Borough,AK,3,  Private services-providing industries,860735
-02110,Juneau City and Borough,AK,4,  Government and government enterprises,792722
-02122,Kenai Peninsula Borough,AK,1,All Industries,3140724
-02122,Kenai Peninsula Borough,AK,2,  Private goods-producing industries,1380901
-02122,Kenai Peninsula Borough,AK,3,  Private services-providing industries,1292387
-02122,Kenai Peninsula Borough,AK,4,  Government and government enterprises,467436
-02130,Ketchikan Gateway Borough,AK,1,All Industries,802339
-02130,Ketchikan Gateway Borough,AK,2,  Private goods-producing industries,164562
-02130,Ketchikan Gateway Borough,AK,3,  Private services-providing industries,413331
-02130,Ketchikan Gateway Borough,AK,4,  Government and government enterprises,224447
-02150,Kodiak Island Borough,AK,1,All Industries,741748
-02150,Kodiak Island Borough,AK,2,  Private goods-producing industries,241094
-02150,Kodiak Island Borough,AK,3,  Private services-providing industries,270840
-02150,Kodiak Island Borough,AK,4,  Government and government enterprises,229814
-02158,Kusilvak Census Area,AK,1,All Industries,127397
-02158,Kusilvak Census Area,AK,2,  Private goods-producing industries,5463
-02158,Kusilvak Census Area,AK,3,  Private services-providing industries,36799
-02158,Kusilvak Census Area,AK,4,  Government and government enterprises,85135
-02164,Lake and Peninsula Borough,AK,1,All Industries,68147
-02164,Lake and Peninsula Borough,AK,2,  Private goods-producing industries,14504
-02164,Lake and Peninsula Borough,AK,3,  Private services-providing industries,24938
-02164,Lake and Peninsula Borough,AK,4,  Government and government enterprises,28705
-02170,Matanuska-Susitna Borough,AK,1,All Industries,2233060
-02170,Matanuska-Susitna Borough,AK,2,  Private goods-producing industries,347993
-02170,Matanuska-Susitna Borough,AK,3,  Private services-providing industries,1454629
-02170,Matanuska-Susitna Borough,AK,4,  Government and government enterprises,430439
-02180,Nome Census Area,AK,1,All Industries,402931
-02180,Nome Census Area,AK,2,  Private goods-producing industries,53936
-02180,Nome Census Area,AK,3,  Private services-providing industries,208526
-02180,Nome Census Area,AK,4,  Government and government enterprises,140469
-02185,North Slope Borough,AK,1,All Industries,8920976
-02185,North Slope Borough,AK,2,  Private goods-producing industries,8000241
-02185,North Slope Borough,AK,3,  Private services-providing industries,725815
-02185,North Slope Borough,AK,4,  Government and government enterprises,194919
-02188,Northwest Arctic Borough,AK,1,All Industries,628118
-02188,Northwest Arctic Borough,AK,2,  Private goods-producing industries,380761
-02188,Northwest Arctic Borough,AK,3,  Private services-providing industries,165346
-02188,Northwest Arctic Borough,AK,4,  Government and government enterprises,82012
-02195,Petersburg Borough,AK,1,All Industries,146199
-02195,Petersburg Borough,AK,2,  Private goods-producing industries,52375
-02195,Petersburg Borough,AK,3,  Private services-providing industries,39715
-02195,Petersburg Borough,AK,4,  Government and government enterprises,54109
-02198,Prince of Wales-Hyder Census Area,AK,1,All Industries,229136
-02198,Prince of Wales-Hyder Census Area,AK,2,  Private goods-producing industries,78190
-02198,Prince of Wales-Hyder Census Area,AK,3,  Private services-providing industries,79499
-02198,Prince of Wales-Hyder Census Area,AK,4,  Government and government enterprises,71447
-02220,Sitka City and Borough,AK,1,All Industries,404873
-02220,Sitka City and Borough,AK,2,  Private goods-producing industries,62839
-02220,Sitka City and Borough,AK,3,  Private services-providing industries,213109
-02220,Sitka City and Borough,AK,4,  Government and government enterprises,128925
-02230,Skagway Municipality,AK,1,All Industries,67100
-02230,Skagway Municipality,AK,2,  Private goods-producing industries,8399
-02230,Skagway Municipality,AK,3,  Private services-providing industries,43086
-02230,Skagway Municipality,AK,4,  Government and government enterprises,15615
-02240,Southeast Fairbanks Census Area,AK,1,All Industries,603699
-02240,Southeast Fairbanks Census Area,AK,2,  Private goods-producing industries,390204
-02240,Southeast Fairbanks Census Area,AK,3,  Private services-providing industries,120979
-02240,Southeast Fairbanks Census Area,AK,4,  Government and government enterprises,92516
-02261,Valdez-Cordova Census Area,AK,1,All Industries,1535094
-02261,Valdez-Cordova Census Area,AK,2,  Private goods-producing industries,63312
-02261,Valdez-Cordova Census Area,AK,3,  Private services-providing industries,1333147
-02261,Valdez-Cordova Census Area,AK,4,  Government and government enterprises,138635
-02275,Wrangell City and Borough,AK,1,All Industries,60622
-02275,Wrangell City and Borough,AK,2,  Private goods-producing industries,11256
-02275,Wrangell City and Borough,AK,3,  Private services-providing industries,19343
-02275,Wrangell City and Borough,AK,4,  Government and government enterprises,30023
-02282,Yakutat City and Borough,AK,1,All Industries,24391
-02282,Yakutat City and Borough,AK,2,  Private goods-producing industries,2900
-02282,Yakutat City and Borough,AK,3,  Private services-providing industries,10002
-02282,Yakutat City and Borough,AK,4,  Government and government enterprises,11490
-02290,Yukon-Koyukuk Census Area,AK,1,All Industries,316396
-02290,Yukon-Koyukuk Census Area,AK,2,  Private goods-producing industries,92009
-02290,Yukon-Koyukuk Census Area,AK,3,  Private services-providing industries,120484
-02290,Yukon-Koyukuk Census Area,AK,4,  Government and government enterprises,103903
-04001,Apache,AZ,1,All Industries,2506715
-04001,Apache,AZ,2,  Private goods-producing industries,94295
-04001,Apache,AZ,3,  Private services-providing industries,1572081
-04001,Apache,AZ,4,  Government and government enterprises,840339
-04003,Cochise,AZ,1,All Industries,4114722
-04003,Cochise,AZ,2,  Private goods-producing industries,305252
-04003,Cochise,AZ,3,  Private services-providing industries,1746153
-04003,Cochise,AZ,4,  Government and government enterprises,2063316
-04005,Coconino,AZ,1,All Industries,5948938
-04005,Coconino,AZ,2,  Private goods-producing industries,717729
-04005,Coconino,AZ,3,  Private services-providing industries,3827736
-04005,Coconino,AZ,4,  Government and government enterprises,1403473
-04007,Gila,AZ,1,All Industries,1595348
-04007,Gila,AZ,2,  Private goods-producing industries,762921
-04007,Gila,AZ,3,  Private services-providing industries,502135
-04007,Gila,AZ,4,  Government and government enterprises,330293
-04009,Graham,AZ,1,All Industries,672246
-04009,Graham,AZ,2,  Private goods-producing industries,95234
-04009,Graham,AZ,3,  Private services-providing industries,363099
-04009,Graham,AZ,4,  Government and government enterprises,213913
-04011,Greenlee,AZ,1,All Industries,1263702
-04011,Greenlee,AZ,2,  Private goods-producing industries,1167625
-04011,Greenlee,AZ,3,  Private services-providing industries,61254
-04011,Greenlee,AZ,4,  Government and government enterprises,34823
-04012,La Paz,AZ,1,All Industries,496754
-04012,La Paz,AZ,2,  Private goods-producing industries,97969
-04012,La Paz,AZ,3,  Private services-providing industries,244836
-04012,La Paz,AZ,4,  Government and government enterprises,153949
-04013,Maricopa,AZ,1,All Industries,191057142
-04013,Maricopa,AZ,2,  Private goods-producing industries,26867865
-04013,Maricopa,AZ,3,  Private services-providing industries,144940728
-04013,Maricopa,AZ,4,  Government and government enterprises,19248548
-04015,Mohave,AZ,1,All Industries,4002396
-04015,Mohave,AZ,2,  Private goods-producing industries,558327
-04015,Mohave,AZ,3,  Private services-providing industries,2831611
-04015,Mohave,AZ,4,  Government and government enterprises,612458
-04017,Navajo,AZ,1,All Industries,3027709
-04017,Navajo,AZ,2,  Private goods-producing industries,446481
-04017,Navajo,AZ,3,  Private services-providing industries,1885443
-04017,Navajo,AZ,4,  Government and government enterprises,695786
-04019,Pima,AZ,1,All Industries,36093975
-04019,Pima,AZ,2,  Private goods-producing industries,6895241
-04019,Pima,AZ,3,  Private services-providing industries,21624079
-04019,Pima,AZ,4,  Government and government enterprises,7574655
-04021,Pinal,AZ,1,All Industries,6093707
-04021,Pinal,AZ,2,  Private goods-producing industries,2057601
-04021,Pinal,AZ,3,  Private services-providing industries,2403996
-04021,Pinal,AZ,4,  Government and government enterprises,1632110
-04023,Santa Cruz,AZ,1,All Industries,1330985
-04023,Santa Cruz,AZ,2,  Private goods-producing industries,81263
-04023,Santa Cruz,AZ,3,  Private services-providing industries,814456
-04023,Santa Cruz,AZ,4,  Government and government enterprises,435267
-04025,Yavapai,AZ,1,All Industries,4788236
-04025,Yavapai,AZ,2,  Private goods-producing industries,909338
-04025,Yavapai,AZ,3,  Private services-providing industries,3066635
-04025,Yavapai,AZ,4,  Government and government enterprises,812263
-04027,Yuma,AZ,1,All Industries,5296249
-04027,Yuma,AZ,2,  Private goods-producing industries,997369
-04027,Yuma,AZ,3,  Private services-providing industries,2529235
-04027,Yuma,AZ,4,  Government and government enterprises,1769644
-05001,Arkansas,AR,1,All Industries,830826
-05001,Arkansas,AR,2,  Private goods-producing industries,374895
-05001,Arkansas,AR,3,  Private services-providing industries,385584
-05001,Arkansas,AR,4,  Government and government enterprises,70347
-05003,Ashley,AR,1,All Industries,883239
-05003,Ashley,AR,2,  Private goods-producing industries,565104
-05003,Ashley,AR,3,  Private services-providing industries,252872
-05003,Ashley,AR,4,  Government and government enterprises,65263
-05005,Baxter,AR,1,All Industries,1043237
-05005,Baxter,AR,2,  Private goods-producing industries,231497
-05005,Baxter,AR,3,  Private services-providing industries,708823
-05005,Baxter,AR,4,  Government and government enterprises,102916
-05007,Benton,AR,1,All Industries,10704104
-05007,Benton,AR,2,  Private goods-producing industries,1396473
-05007,Benton,AR,3,  Private services-providing industries,8680660
-05007,Benton,AR,4,  Government and government enterprises,626971
-05009,Boone,AR,1,All Industries,1119565
-05009,Boone,AR,2,  Private goods-producing industries,226589
-05009,Boone,AR,3,  Private services-providing industries,700997
-05009,Boone,AR,4,  Government and government enterprises,191979
-05011,Bradley,AR,1,All Industries,240726
-05011,Bradley,AR,2,  Private goods-producing industries,85546
-05011,Bradley,AR,3,  Private services-providing industries,108089
-05011,Bradley,AR,4,  Government and government enterprises,47092
-05013,Calhoun,AR,1,All Industries,288586
-05013,Calhoun,AR,2,  Private goods-producing industries,220150
-05013,Calhoun,AR,3,  Private services-providing industries,53903
-05013,Calhoun,AR,4,  Government and government enterprises,14533
-05015,Carroll,AR,1,All Industries,652964
-05015,Carroll,AR,2,  Private goods-producing industries,286162
-05015,Carroll,AR,3,  Private services-providing industries,298197
-05015,Carroll,AR,4,  Government and government enterprises,68605
-05017,Chicot,AR,1,All Industries,255790
-05017,Chicot,AR,2,  Private goods-producing industries,72775
-05017,Chicot,AR,3,  Private services-providing industries,126614
-05017,Chicot,AR,4,  Government and government enterprises,56401
-05019,Clark,AR,1,All Industries,726679
-05019,Clark,AR,2,  Private goods-producing industries,187474
-05019,Clark,AR,3,  Private services-providing industries,400738
-05019,Clark,AR,4,  Government and government enterprises,138467
-05021,Clay,AR,1,All Industries,295622
-05021,Clay,AR,2,  Private goods-producing industries,89165
-05021,Clay,AR,3,  Private services-providing industries,158590
-05021,Clay,AR,4,  Government and government enterprises,47866
-05023,Cleburne,AR,1,All Industries,592978
-05023,Cleburne,AR,2,  Private goods-producing industries,198000
-05023,Cleburne,AR,3,  Private services-providing industries,339485
-05023,Cleburne,AR,4,  Government and government enterprises,55492
-05025,Cleveland,AR,1,All Industries,91220
-05025,Cleveland,AR,2,  Private goods-producing industries,43829
-05025,Cleveland,AR,3,  Private services-providing industries,27849
-05025,Cleveland,AR,4,  Government and government enterprises,19541
-05027,Columbia,AR,1,All Industries,887037
-05027,Columbia,AR,2,  Private goods-producing industries,484169
-05027,Columbia,AR,3,  Private services-providing industries,291541
-05027,Columbia,AR,4,  Government and government enterprises,111327
-05029,Conway,AR,1,All Industries,595300
-05029,Conway,AR,2,  Private goods-producing industries,242955
-05029,Conway,AR,3,  Private services-providing industries,275189
-05029,Conway,AR,4,  Government and government enterprises,77155
-05031,Craighead,AR,1,All Industries,3707662
-05031,Craighead,AR,2,  Private goods-producing industries,766585
-05031,Craighead,AR,3,  Private services-providing industries,2450223
-05031,Craighead,AR,4,  Government and government enterprises,490855
-05033,Crawford,AR,1,All Industries,1543442
-05033,Crawford,AR,2,  Private goods-producing industries,421933
-05033,Crawford,AR,3,  Private services-providing industries,976762
-05033,Crawford,AR,4,  Government and government enterprises,144748
-05035,Crittenden,AR,1,All Industries,1431966
-05035,Crittenden,AR,2,  Private goods-producing industries,255821
-05035,Crittenden,AR,3,  Private services-providing industries,993086
-05035,Crittenden,AR,4,  Government and government enterprises,183060
-05037,Cross,AR,1,All Industries,438719
-05037,Cross,AR,2,  Private goods-producing industries,115980
-05037,Cross,AR,3,  Private services-providing industries,253586
-05037,Cross,AR,4,  Government and government enterprises,69153
-05039,Dallas,AR,1,All Industries,177988
-05039,Dallas,AR,2,  Private goods-producing industries,65998
-05039,Dallas,AR,3,  Private services-providing industries,92790
-05039,Dallas,AR,4,  Government and government enterprises,19201
-05041,Desha,AR,1,All Industries,428200
-05041,Desha,AR,2,  Private goods-producing industries,169139
-05041,Desha,AR,3,  Private services-providing industries,206387
-05041,Desha,AR,4,  Government and government enterprises,52673
-05043,Drew,AR,1,All Industries,496838
-05043,Drew,AR,2,  Private goods-producing industries,134834
-05043,Drew,AR,3,  Private services-providing industries,244661
-05043,Drew,AR,4,  Government and government enterprises,117343
-05045,Faulkner,AR,1,All Industries,3726513
-05045,Faulkner,AR,2,  Private goods-producing industries,1039785
-05045,Faulkner,AR,3,  Private services-providing industries,2206375
-05045,Faulkner,AR,4,  Government and government enterprises,480353
-05047,Franklin,AR,1,All Industries,391648
-05047,Franklin,AR,2,  Private goods-producing industries,185981
-05047,Franklin,AR,3,  Private services-providing industries,139952
-05047,Franklin,AR,4,  Government and government enterprises,65715
-05049,Fulton,AR,1,All Industries,150771
-05049,Fulton,AR,2,  Private goods-producing industries,38939
-05049,Fulton,AR,3,  Private services-providing industries,78205
-05049,Fulton,AR,4,  Government and government enterprises,33626
-05051,Garland,AR,1,All Industries,2934315
-05051,Garland,AR,2,  Private goods-producing industries,416035
-05051,Garland,AR,3,  Private services-providing industries,2186531
-05051,Garland,AR,4,  Government and government enterprises,331748
-05053,Grant,AR,1,All Industries,303900
-05053,Grant,AR,2,  Private goods-producing industries,125236
-05053,Grant,AR,3,  Private services-providing industries,128100
-05053,Grant,AR,4,  Government and government enterprises,50564
-05055,Greene,AR,1,All Industries,1158505
-05055,Greene,AR,2,  Private goods-producing industries,502281
-05055,Greene,AR,3,  Private services-providing industries,528384
-05055,Greene,AR,4,  Government and government enterprises,127841
-05057,Hempstead,AR,1,All Industries,664534
-05057,Hempstead,AR,2,  Private goods-producing industries,281752
-05057,Hempstead,AR,3,  Private services-providing industries,277675
-05057,Hempstead,AR,4,  Government and government enterprises,105106
-05059,Hot Spring,AR,1,All Industries,781325
-05059,Hot Spring,AR,2,  Private goods-producing industries,214057
-05059,Hot Spring,AR,3,  Private services-providing industries,452221
-05059,Hot Spring,AR,4,  Government and government enterprises,115047
-05061,Howard,AR,1,All Industries,494267
-05061,Howard,AR,2,  Private goods-producing industries,288515
-05061,Howard,AR,3,  Private services-providing industries,156724
-05061,Howard,AR,4,  Government and government enterprises,49028
-05063,Independence,AR,1,All Industries,1445838
-05063,Independence,AR,2,  Private goods-producing industries,348829
-05063,Independence,AR,3,  Private services-providing industries,967298
-05063,Independence,AR,4,  Government and government enterprises,129711
-05065,Izard,AR,1,All Industries,246718
-05065,Izard,AR,2,  Private goods-producing industries,70558
-05065,Izard,AR,3,  Private services-providing industries,118797
-05065,Izard,AR,4,  Government and government enterprises,57363
-05067,Jackson,AR,1,All Industries,471583
-05067,Jackson,AR,2,  Private goods-producing industries,177048
-05067,Jackson,AR,3,  Private services-providing industries,212476
-05067,Jackson,AR,4,  Government and government enterprises,82059
-05069,Jefferson,AR,1,All Industries,3002468
-05069,Jefferson,AR,2,  Private goods-producing industries,781883
-05069,Jefferson,AR,3,  Private services-providing industries,1605957
-05069,Jefferson,AR,4,  Government and government enterprises,614628
-05071,Johnson,AR,1,All Industries,578655
-05071,Johnson,AR,2,  Private goods-producing industries,219445
-05071,Johnson,AR,3,  Private services-providing industries,286549
-05071,Johnson,AR,4,  Government and government enterprises,72661
-05073,Lafayette,AR,1,All Industries,122883
-05073,Lafayette,AR,2,  Private goods-producing industries,58198
-05073,Lafayette,AR,3,  Private services-providing industries,45278
-05073,Lafayette,AR,4,  Government and government enterprises,19407
-05075,Lawrence,AR,1,All Industries,313636
-05075,Lawrence,AR,2,  Private goods-producing industries,93385
-05075,Lawrence,AR,3,  Private services-providing industries,152316
-05075,Lawrence,AR,4,  Government and government enterprises,67935
-05077,Lee,AR,1,All Industries,174313
-05077,Lee,AR,2,  Private goods-producing industries,49457
-05077,Lee,AR,3,  Private services-providing industries,76595
-05077,Lee,AR,4,  Government and government enterprises,48261
-05079,Lincoln,AR,1,All Industries,234512
-05079,Lincoln,AR,2,  Private goods-producing industries,79939
-05079,Lincoln,AR,3,  Private services-providing industries,72392
-05079,Lincoln,AR,4,  Government and government enterprises,82180
-05081,Little River,AR,1,All Industries,498522
-05081,Little River,AR,2,  Private goods-producing industries,326054
-05081,Little River,AR,3,  Private services-providing industries,122357
-05081,Little River,AR,4,  Government and government enterprises,50111
-05083,Logan,AR,1,All Industries,429941
-05083,Logan,AR,2,  Private goods-producing industries,192277
-05083,Logan,AR,3,  Private services-providing industries,159443
-05083,Logan,AR,4,  Government and government enterprises,78221
-05085,Lonoke,AR,1,All Industries,1036485
-05085,Lonoke,AR,2,  Private goods-producing industries,281847
-05085,Lonoke,AR,3,  Private services-providing industries,585597
-05085,Lonoke,AR,4,  Government and government enterprises,169042
-05087,Madison,AR,1,All Industries,270693
-05087,Madison,AR,2,  Private goods-producing industries,134434
-05087,Madison,AR,3,  Private services-providing industries,98010
-05087,Madison,AR,4,  Government and government enterprises,38249
-05089,Marion,AR,1,All Industries,383695
-05089,Marion,AR,2,  Private goods-producing industries,217482
-05089,Marion,AR,3,  Private services-providing industries,132732
-05089,Marion,AR,4,  Government and government enterprises,33482
-05091,Miller,AR,1,All Industries,1199015
-05091,Miller,AR,2,  Private goods-producing industries,420595
-05091,Miller,AR,3,  Private services-providing industries,640901
-05091,Miller,AR,4,  Government and government enterprises,137519
-05093,Mississippi,AR,1,All Industries,2155097
-05093,Mississippi,AR,2,  Private goods-producing industries,1123834
-05093,Mississippi,AR,3,  Private services-providing industries,867586
-05093,Mississippi,AR,4,  Government and government enterprises,163678
-05095,Monroe,AR,1,All Industries,216154
-05095,Monroe,AR,2,  Private goods-producing industries,53851
-05095,Monroe,AR,3,  Private services-providing industries,136686
-05095,Monroe,AR,4,  Government and government enterprises,25618
-05097,Montgomery,AR,1,All Industries,113913
-05097,Montgomery,AR,2,  Private goods-producing industries,26836
-05097,Montgomery,AR,3,  Private services-providing industries,56826
-05097,Montgomery,AR,4,  Government and government enterprises,30251
-05099,Nevada,AR,1,All Industries,214488
-05099,Nevada,AR,2,  Private goods-producing industries,94037
-05099,Nevada,AR,3,  Private services-providing industries,96746
-05099,Nevada,AR,4,  Government and government enterprises,23705
-05101,Newton,AR,1,All Industries,73313
-05101,Newton,AR,2,  Private goods-producing industries,16581
-05101,Newton,AR,3,  Private services-providing industries,31301
-05101,Newton,AR,4,  Government and government enterprises,25431
-05103,Ouachita,AR,1,All Industries,598731
-05103,Ouachita,AR,2,  Private goods-producing industries,185224
-05103,Ouachita,AR,3,  Private services-providing industries,300609
-05103,Ouachita,AR,4,  Government and government enterprises,112898
-05105,Perry,AR,1,All Industries,101627
-05105,Perry,AR,2,  Private goods-producing industries,37617
-05105,Perry,AR,3,  Private services-providing industries,41020
-05105,Perry,AR,4,  Government and government enterprises,22991
-05107,Phillips,AR,1,All Industries,468293
-05107,Phillips,AR,2,  Private goods-producing industries,98687
-05107,Phillips,AR,3,  Private services-providing industries,283925
-05107,Phillips,AR,4,  Government and government enterprises,85681
-05109,Pike,AR,1,All Industries,201756
-05109,Pike,AR,2,  Private goods-producing industries,51666
-05109,Pike,AR,3,  Private services-providing industries,116006
-05109,Pike,AR,4,  Government and government enterprises,34084
-05111,Poinsett,AR,1,All Industries,521451
-05111,Poinsett,AR,2,  Private goods-producing industries,151437
-05111,Poinsett,AR,3,  Private services-providing industries,297776
-05111,Poinsett,AR,4,  Government and government enterprises,72238
-05113,Polk,AR,1,All Industries,415129
-05113,Polk,AR,2,  Private goods-producing industries,143203
-05113,Polk,AR,3,  Private services-providing industries,209898
-05113,Polk,AR,4,  Government and government enterprises,62028
-05115,Pope,AR,1,All Industries,2503731
-05115,Pope,AR,2,  Private goods-producing industries,537895
-05115,Pope,AR,3,  Private services-providing industries,1694842
-05115,Pope,AR,4,  Government and government enterprises,270994
-05117,Prairie,AR,1,All Industries,140058
-05117,Prairie,AR,2,  Private goods-producing industries,51556
-05117,Prairie,AR,3,  Private services-providing industries,65221
-05117,Prairie,AR,4,  Government and government enterprises,23280
-05119,Pulaski,AR,1,All Industries,26338703
-05119,Pulaski,AR,2,  Private goods-producing industries,2608271
-05119,Pulaski,AR,3,  Private services-providing industries,18656197
-05119,Pulaski,AR,4,  Government and government enterprises,5074235
-05121,Randolph,AR,1,All Industries,318848
-05121,Randolph,AR,2,  Private goods-producing industries,74163
-05121,Randolph,AR,3,  Private services-providing industries,188324
-05121,Randolph,AR,4,  Government and government enterprises,56361
-05123,St. Francis,AR,1,All Industries,638792
-05123,St. Francis,AR,2,  Private goods-producing industries,111088
-05123,St. Francis,AR,3,  Private services-providing industries,359530
-05123,St. Francis,AR,4,  Government and government enterprises,168174
-05125,Saline,AR,1,All Industries,1840987
-05125,Saline,AR,2,  Private goods-producing industries,336325
-05125,Saline,AR,3,  Private services-providing industries,1209539
-05125,Saline,AR,4,  Government and government enterprises,295123
-05127,Scott,AR,1,All Industries,196991
-05127,Scott,AR,2,  Private goods-producing industries,98634
-05127,Scott,AR,3,  Private services-providing industries,67614
-05127,Scott,AR,4,  Government and government enterprises,30742
-05129,Searcy,AR,1,All Industries,109258
-05129,Searcy,AR,2,  Private goods-producing industries,32213
-05129,Searcy,AR,3,  Private services-providing industries,51774
-05129,Searcy,AR,4,  Government and government enterprises,25271
-05131,Sebastian,AR,1,All Industries,6453074
-05131,Sebastian,AR,2,  Private goods-producing industries,1786606
-05131,Sebastian,AR,3,  Private services-providing industries,4109831
-05131,Sebastian,AR,4,  Government and government enterprises,556636
-05133,Sevier,AR,1,All Industries,353522
-05133,Sevier,AR,2,  Private goods-producing industries,127565
-05133,Sevier,AR,3,  Private services-providing industries,162761
-05133,Sevier,AR,4,  Government and government enterprises,63195
-05135,Sharp,AR,1,All Industries,255063
-05135,Sharp,AR,2,  Private goods-producing industries,42806
-05135,Sharp,AR,3,  Private services-providing industries,169836
-05135,Sharp,AR,4,  Government and government enterprises,42421
-05137,Stone,AR,1,All Industries,176225
-05137,Stone,AR,2,  Private goods-producing industries,36913
-05137,Stone,AR,3,  Private services-providing industries,106372
-05137,Stone,AR,4,  Government and government enterprises,32940
-05139,Union,AR,1,All Industries,3025342
-05139,Union,AR,2,  Private goods-producing industries,1486390
-05139,Union,AR,3,  Private services-providing industries,1387203
-05139,Union,AR,4,  Government and government enterprises,151749
-05141,Van Buren,AR,1,All Industries,383114
-05141,Van Buren,AR,2,  Private goods-producing industries,142984
-05141,Van Buren,AR,3,  Private services-providing industries,199210
-05141,Van Buren,AR,4,  Government and government enterprises,40920
-05143,Washington,AR,1,All Industries,9630946
-05143,Washington,AR,2,  Private goods-producing industries,1471888
-05143,Washington,AR,3,  Private services-providing industries,6853090
-05143,Washington,AR,4,  Government and government enterprises,1305967
-05145,White,AR,1,All Industries,2208213
-05145,White,AR,2,  Private goods-producing industries,691910
-05145,White,AR,3,  Private services-providing industries,1299340
-05145,White,AR,4,  Government and government enterprises,216963
-05147,Woodruff,AR,1,All Industries,171906
-05147,Woodruff,AR,2,  Private goods-producing industries,61628
-05147,Woodruff,AR,3,  Private services-providing industries,81113
-05147,Woodruff,AR,4,  Government and government enterprises,29165
-05149,Yell,AR,1,All Industries,473010
-05149,Yell,AR,2,  Private goods-producing industries,194320
-05149,Yell,AR,3,  Private services-providing industries,198320
-05149,Yell,AR,4,  Government and government enterprises,80370
-06001,Alameda,CA,1,All Industries,93795276
-06001,Alameda,CA,2,  Private goods-producing industries,15313173
-06001,Alameda,CA,3,  Private services-providing industries,66600579
-06001,Alameda,CA,4,  Government and government enterprises,11881524
-06003,Alpine,CA,1,All Industries,91253
-06003,Alpine,CA,2,  Private goods-producing industries,2435
-06003,Alpine,CA,3,  Private services-providing industries,70131
-06003,Alpine,CA,4,  Government and government enterprises,18686
-06005,Amador,CA,1,All Industries,1106242
-06005,Amador,CA,2,  Private goods-producing industries,193552
-06005,Amador,CA,3,  Private services-providing industries,566794
-06005,Amador,CA,4,  Government and government enterprises,345896
-06007,Butte,CA,1,All Industries,6399648
-06007,Butte,CA,2,  Private goods-producing industries,1018314
-06007,Butte,CA,3,  Private services-providing industries,4272030
-06007,Butte,CA,4,  Government and government enterprises,1109304
-06009,Calaveras,CA,1,All Industries,771457
-06009,Calaveras,CA,2,  Private goods-producing industries,115570
-06009,Calaveras,CA,3,  Private services-providing industries,463072
-06009,Calaveras,CA,4,  Government and government enterprises,192815
-06011,Colusa,CA,1,All Industries,1133356
-06011,Colusa,CA,2,  Private goods-producing industries,361633
-06011,Colusa,CA,3,  Private services-providing industries,625696
-06011,Colusa,CA,4,  Government and government enterprises,146026
-06013,Contra Costa,CA,1,All Industries,62121185
-06013,Contra Costa,CA,2,  Private goods-producing industries,19518050
-06013,Contra Costa,CA,3,  Private services-providing industries,37999850
-06013,Contra Costa,CA,4,  Government and government enterprises,4603284
-06015,Del Norte,CA,1,All Industries,599490
-06015,Del Norte,CA,2,  Private goods-producing industries,60981
-06015,Del Norte,CA,3,  Private services-providing industries,262543
-06015,Del Norte,CA,4,  Government and government enterprises,275966
-06017,El Dorado,CA,1,All Industries,5524161
-06017,El Dorado,CA,2,  Private goods-producing industries,693923
-06017,El Dorado,CA,3,  Private services-providing industries,4018835
-06017,El Dorado,CA,4,  Government and government enterprises,811403
-06019,Fresno,CA,1,All Industries,33775353
-06019,Fresno,CA,2,  Private goods-producing industries,7655334
-06019,Fresno,CA,3,  Private services-providing industries,20542143
-06019,Fresno,CA,4,  Government and government enterprises,5577877
-06021,Glenn,CA,1,All Industries,806251
-06021,Glenn,CA,2,  Private goods-producing industries,345656
-06021,Glenn,CA,3,  Private services-providing industries,303661
-06021,Glenn,CA,4,  Government and government enterprises,156934
-06023,Humboldt,CA,1,All Industries,3846207
-06023,Humboldt,CA,2,  Private goods-producing industries,565011
-06023,Humboldt,CA,3,  Private services-providing industries,2326975
-06023,Humboldt,CA,4,  Government and government enterprises,954220
-06025,Imperial,CA,1,All Industries,5696268
-06025,Imperial,CA,2,  Private goods-producing industries,1439309
-06025,Imperial,CA,3,  Private services-providing industries,2550285
-06025,Imperial,CA,4,  Government and government enterprises,1706674
-06027,Inyo,CA,1,All Industries,910652
-06027,Inyo,CA,2,  Private goods-producing industries,178292
-06027,Inyo,CA,3,  Private services-providing industries,472159
-06027,Inyo,CA,4,  Government and government enterprises,260201
-06029,Kern,CA,1,All Industries,39340854
-06029,Kern,CA,2,  Private goods-producing industries,14767089
-06029,Kern,CA,3,  Private services-providing industries,18409966
-06029,Kern,CA,4,  Government and government enterprises,6163799
-06031,Kings,CA,1,All Industries,5078462
-06031,Kings,CA,2,  Private goods-producing industries,1571822
-06031,Kings,CA,3,  Private services-providing industries,1453328
-06031,Kings,CA,4,  Government and government enterprises,2053312
-06033,Lake,CA,1,All Industries,1337816
-06033,Lake,CA,2,  Private goods-producing industries,193229
-06033,Lake,CA,3,  Private services-providing industries,884222
-06033,Lake,CA,4,  Government and government enterprises,260365
-06035,Lassen,CA,1,All Industries,989373
-06035,Lassen,CA,2,  Private goods-producing industries,129503
-06035,Lassen,CA,3,  Private services-providing industries,264114
-06035,Lassen,CA,4,  Government and government enterprises,595757
-06037,Los Angeles,CA,1,All Industries,593671075
-06037,Los Angeles,CA,2,  Private goods-producing industries,70641406
-06037,Los Angeles,CA,3,  Private services-providing industries,464547602
-06037,Los Angeles,CA,4,  Government and government enterprises,58482067
-06039,Madera,CA,1,All Industries,4438122
-06039,Madera,CA,2,  Private goods-producing industries,1633856
-06039,Madera,CA,3,  Private services-providing industries,2010428
-06039,Madera,CA,4,  Government and government enterprises,793838
-06041,Marin,CA,1,All Industries,17934235
-06041,Marin,CA,2,  Private goods-producing industries,1105931
-06041,Marin,CA,3,  Private services-providing industries,15195979
-06041,Marin,CA,4,  Government and government enterprises,1632324
-06043,Mariposa,CA,1,All Industries,445506
-06043,Mariposa,CA,2,  Private goods-producing industries,32697
-06043,Mariposa,CA,3,  Private services-providing industries,249851
-06043,Mariposa,CA,4,  Government and government enterprises,162959
-06045,Mendocino,CA,1,All Industries,2481677
-06045,Mendocino,CA,2,  Private goods-producing industries,533566
-06045,Mendocino,CA,3,  Private services-providing industries,1466839
-06045,Mendocino,CA,4,  Government and government enterprises,481272
-06047,Merced,CA,1,All Industries,6707751
-06047,Merced,CA,2,  Private goods-producing industries,2605037
-06047,Merced,CA,3,  Private services-providing industries,2756538
-06047,Merced,CA,4,  Government and government enterprises,1346176
-06049,Modoc,CA,1,All Industries,212855
-06049,Modoc,CA,2,  Private goods-producing industries,51522
-06049,Modoc,CA,3,  Private services-providing industries,71878
-06049,Modoc,CA,4,  Government and government enterprises,89455
-06051,Mono,CA,1,All Industries,662764
-06051,Mono,CA,2,  Private goods-producing industries,56272
-06051,Mono,CA,3,  Private services-providing industries,425325
-06051,Mono,CA,4,  Government and government enterprises,181168
-06053,Monterey,CA,1,All Industries,20011213
-06053,Monterey,CA,2,  Private goods-producing industries,5131338
-06053,Monterey,CA,3,  Private services-providing industries,10590059
-06053,Monterey,CA,4,  Government and government enterprises,4289816
-06055,Napa,CA,1,All Industries,7595001
-06055,Napa,CA,2,  Private goods-producing industries,2446556
-06055,Napa,CA,3,  Private services-providing industries,4251949
-06055,Napa,CA,4,  Government and government enterprises,896496
-06057,Nevada,CA,1,All Industries,3525492
-06057,Nevada,CA,2,  Private goods-producing industries,677408
-06057,Nevada,CA,3,  Private services-providing industries,2379078
-06057,Nevada,CA,4,  Government and government enterprises,469007
-06059,Orange,CA,1,All Industries,216205203
-06059,Orange,CA,2,  Private goods-producing industries,31275958
-06059,Orange,CA,3,  Private services-providing industries,170266880
-06059,Orange,CA,4,  Government and government enterprises,14662364
-06061,Placer,CA,1,All Industries,15998697
-06061,Placer,CA,2,  Private goods-producing industries,2038285
-06061,Placer,CA,3,  Private services-providing industries,12428582
-06061,Placer,CA,4,  Government and government enterprises,1531831
-06063,Plumas,CA,1,All Industries,699250
-06063,Plumas,CA,2,  Private goods-producing industries,99971
-06063,Plumas,CA,3,  Private services-providing industries,417509
-06063,Plumas,CA,4,  Government and government enterprises,181769
-06065,Riverside,CA,1,All Industries,61827909
-06065,Riverside,CA,2,  Private goods-producing industries,11850458
-06065,Riverside,CA,3,  Private services-providing industries,39522376
-06065,Riverside,CA,4,  Government and government enterprises,10455076
-06067,Sacramento,CA,1,All Industries,68329118
-06067,Sacramento,CA,2,  Private goods-producing industries,6071895
-06067,Sacramento,CA,3,  Private services-providing industries,42527546
-06067,Sacramento,CA,4,  Government and government enterprises,19729677
-06069,San Benito,CA,1,All Industries,1611342
-06069,San Benito,CA,2,  Private goods-producing industries,673033
-06069,San Benito,CA,3,  Private services-providing industries,698903
-06069,San Benito,CA,4,  Government and government enterprises,239405
-06071,San Bernardino,CA,1,All Industries,63540956
-06071,San Bernardino,CA,2,  Private goods-producing industries,8858196
-06071,San Bernardino,CA,3,  Private services-providing industries,41705948
-06071,San Bernardino,CA,4,  Government and government enterprises,12976812
-06073,San Diego,CA,1,All Industries,191216801
-06073,San Diego,CA,2,  Private goods-producing industries,22015046
-06073,San Diego,CA,3,  Private services-providing industries,129744529
-06073,San Diego,CA,4,  Government and government enterprises,39457226
-06075,San Francisco,CA,1,All Industries,119746763
-06075,San Francisco,CA,2,  Private goods-producing industries,4378559
-06075,San Francisco,CA,3,  Private services-providing industries,102414676
-06075,San Francisco,CA,4,  Government and government enterprises,12953529
-06077,San Joaquin,CA,1,All Industries,21697175
-06077,San Joaquin,CA,2,  Private goods-producing industries,4277922
-06077,San Joaquin,CA,3,  Private services-providing industries,14138554
-06077,San Joaquin,CA,4,  Government and government enterprises,3280699
-06079,San Luis Obispo,CA,1,All Industries,12511046
-06079,San Luis Obispo,CA,2,  Private goods-producing industries,1776544
-06079,San Luis Obispo,CA,3,  Private services-providing industries,8915589
-06079,San Luis Obispo,CA,4,  Government and government enterprises,1818913
-06081,San Mateo,CA,1,All Industries,78166257
-06081,San Mateo,CA,2,  Private goods-producing industries,11020113
-06081,San Mateo,CA,3,  Private services-providing industries,63804352
-06081,San Mateo,CA,4,  Government and government enterprises,3341792
-06083,Santa Barbara,CA,1,All Industries,21854525
-06083,Santa Barbara,CA,2,  Private goods-producing industries,4262402
-06083,Santa Barbara,CA,3,  Private services-providing industries,14008512
-06083,Santa Barbara,CA,4,  Government and government enterprises,3583610
-06085,Santa Clara,CA,1,All Industries,195550832
-06085,Santa Clara,CA,2,  Private goods-producing industries,55682457
-06085,Santa Clara,CA,3,  Private services-providing industries,130284946
-06085,Santa Clara,CA,4,  Government and government enterprises,9583429
-06087,Santa Cruz,CA,1,All Industries,10606613
-06087,Santa Cruz,CA,2,  Private goods-producing industries,2624441
-06087,Santa Cruz,CA,3,  Private services-providing industries,6427469
-06087,Santa Cruz,CA,4,  Government and government enterprises,1554703
-06089,Shasta,CA,1,All Industries,5844376
-06089,Shasta,CA,2,  Private goods-producing industries,603557
-06089,Shasta,CA,3,  Private services-providing industries,4224707
-06089,Shasta,CA,4,  Government and government enterprises,1016113
-06091,Sierra,CA,1,All Industries,52185
-06091,Sierra,CA,2,  Private goods-producing industries,7075
-06091,Sierra,CA,3,  Private services-providing industries,18640
-06091,Sierra,CA,4,  Government and government enterprises,26470
-06093,Siskiyou,CA,1,All Industries,1077938
-06093,Siskiyou,CA,2,  Private goods-producing industries,168685
-06093,Siskiyou,CA,3,  Private services-providing industries,614855
-06093,Siskiyou,CA,4,  Government and government enterprises,294398
-06095,Solano,CA,1,All Industries,20319752
-06095,Solano,CA,2,  Private goods-producing industries,6437401
-06095,Solano,CA,3,  Private services-providing industries,10466438
-06095,Solano,CA,4,  Government and government enterprises,3415913
-06097,Sonoma,CA,1,All Industries,20941027
-06097,Sonoma,CA,2,  Private goods-producing industries,4504065
-06097,Sonoma,CA,3,  Private services-providing industries,14121297
-06097,Sonoma,CA,4,  Government and government enterprises,2315665
-06099,Stanislaus,CA,1,All Industries,17039050
-06099,Stanislaus,CA,2,  Private goods-producing industries,5065538
-06099,Stanislaus,CA,3,  Private services-providing industries,9805527
-06099,Stanislaus,CA,4,  Government and government enterprises,2167985
-06101,Sutter,CA,1,All Industries,2792070
-06101,Sutter,CA,2,  Private goods-producing industries,601425
-06101,Sutter,CA,3,  Private services-providing industries,1844973
-06101,Sutter,CA,4,  Government and government enterprises,345672
-06103,Tehama,CA,1,All Industries,1301677
-06103,Tehama,CA,2,  Private goods-producing industries,320736
-06103,Tehama,CA,3,  Private services-providing industries,733623
-06103,Tehama,CA,4,  Government and government enterprises,247318
-06105,Trinity,CA,1,All Industries,273210
-06105,Trinity,CA,2,  Private goods-producing industries,31600
-06105,Trinity,CA,3,  Private services-providing industries,142399
-06105,Trinity,CA,4,  Government and government enterprises,99210
-06107,Tulare,CA,1,All Industries,13225789
-06107,Tulare,CA,2,  Private goods-producing industries,4660974
-06107,Tulare,CA,3,  Private services-providing industries,6139244
-06107,Tulare,CA,4,  Government and government enterprises,2425570
-06109,Tuolumne,CA,1,All Industries,1726026
-06109,Tuolumne,CA,2,  Private goods-producing industries,167516
-06109,Tuolumne,CA,3,  Private services-providing industries,1162386
-06109,Tuolumne,CA,4,  Government and government enterprises,396124
-06111,Ventura,CA,1,All Industries,46895460
-06111,Ventura,CA,2,  Private goods-producing industries,16276856
-06111,Ventura,CA,3,  Private services-providing industries,25525164
-06111,Ventura,CA,4,  Government and government enterprises,5093440
-06113,Yolo,CA,1,All Industries,10117496
-06113,Yolo,CA,2,  Private goods-producing industries,1497360
-06113,Yolo,CA,3,  Private services-providing industries,5071917
-06113,Yolo,CA,4,  Government and government enterprises,3548219
-06115,Yuba,CA,1,All Industries,2319728
-06115,Yuba,CA,2,  Private goods-producing industries,236957
-06115,Yuba,CA,3,  Private services-providing industries,821563
-06115,Yuba,CA,4,  Government and government enterprises,1261208
-08001,Adams,CO,1,All Industries,18730462
-08001,Adams,CO,2,  Private goods-producing industries,3532828
-08001,Adams,CO,3,  Private services-providing industries,12233974
-08001,Adams,CO,4,  Government and government enterprises,2963659
-08003,Alamosa,CO,1,All Industries,551564
-08003,Alamosa,CO,2,  Private goods-producing industries,75083
-08003,Alamosa,CO,3,  Private services-providing industries,350009
-08003,Alamosa,CO,4,  Government and government enterprises,126473
-08005,Arapahoe,CO,1,All Industries,34198561
-08005,Arapahoe,CO,2,  Private goods-producing industries,3954547
-08005,Arapahoe,CO,3,  Private services-providing industries,27401360
-08005,Arapahoe,CO,4,  Government and government enterprises,2842653
-08007,Archuleta,CO,1,All Industries,349112
-08007,Archuleta,CO,2,  Private goods-producing industries,54866
-08007,Archuleta,CO,3,  Private services-providing industries,250227
-08007,Archuleta,CO,4,  Government and government enterprises,44019
-08009,Baca,CO,1,All Industries,117957
-08009,Baca,CO,2,  Private goods-producing industries,43342
-08009,Baca,CO,3,  Private services-providing industries,44997
-08009,Baca,CO,4,  Government and government enterprises,29617
-08011,Bent,CO,1,All Industries,103899
-08011,Bent,CO,2,  Private goods-producing industries,25315
-08011,Bent,CO,3,  Private services-providing industries,53679
-08011,Bent,CO,4,  Government and government enterprises,24905
-08013,Boulder,CO,1,All Industries,21331648
-08013,Boulder,CO,2,  Private goods-producing industries,3100884
-08013,Boulder,CO,3,  Private services-providing industries,15943578
-08013,Boulder,CO,4,  Government and government enterprises,2287186
-08014,Broomfield,CO,1,All Industries,7021068
-08014,Broomfield,CO,2,  Private goods-producing industries,3144994
-08014,Broomfield,CO,3,  Private services-providing industries,3779815
-08014,Broomfield,CO,4,  Government and government enterprises,96259
-08015,Chaffee,CO,1,All Industries,418798
-08015,Chaffee,CO,2,  Private goods-producing industries,67750
-08015,Chaffee,CO,3,  Private services-providing industries,245515
-08015,Chaffee,CO,4,  Government and government enterprises,105534
-08017,Cheyenne,CO,1,All Industries,87492
-08017,Cheyenne,CO,2,  Private goods-producing industries,41779
-08017,Cheyenne,CO,3,  Private services-providing industries,31956
-08017,Cheyenne,CO,4,  Government and government enterprises,13757
-08019,Clear Creek,CO,1,All Industries,427391
-08019,Clear Creek,CO,2,  Private goods-producing industries,250110
-08019,Clear Creek,CO,3,  Private services-providing industries,133140
-08019,Clear Creek,CO,4,  Government and government enterprises,44141
-08021,Conejos,CO,1,All Industries,110362
-08021,Conejos,CO,2,  Private goods-producing industries,31773
-08021,Conejos,CO,3,  Private services-providing industries,50788
-08021,Conejos,CO,4,  Government and government enterprises,27800
-08023,Costilla,CO,1,All Industries,88493
-08023,Costilla,CO,2,  Private goods-producing industries,17211
-08023,Costilla,CO,3,  Private services-providing industries,57429
-08023,Costilla,CO,4,  Government and government enterprises,13853
-08025,Crowley,CO,1,All Industries,113294
-08025,Crowley,CO,2,  Private goods-producing industries,44289
-08025,Crowley,CO,3,  Private services-providing industries,37106
-08025,Crowley,CO,4,  Government and government enterprises,31898
-08027,Custer,CO,1,All Industries,70597
-08027,Custer,CO,2,  Private goods-producing industries,22026
-08027,Custer,CO,3,  Private services-providing industries,36692
-08027,Custer,CO,4,  Government and government enterprises,11879
-08029,Delta,CO,1,All Industries,743174
-08029,Delta,CO,2,  Private goods-producing industries,274009
-08029,Delta,CO,3,  Private services-providing industries,327287
-08029,Delta,CO,4,  Government and government enterprises,141879
-08031,Denver,CO,1,All Industries,66577646
-08031,Denver,CO,2,  Private goods-producing industries,9770237
-08031,Denver,CO,3,  Private services-providing industries,50694713
-08031,Denver,CO,4,  Government and government enterprises,6112696
-08033,Dolores,CO,1,All Industries,36521
-08033,Dolores,CO,2,  Private goods-producing industries,9252
-08033,Dolores,CO,3,  Private services-providing industries,18343
-08033,Dolores,CO,4,  Government and government enterprises,8926
-08035,Douglas,CO,1,All Industries,13808387
-08035,Douglas,CO,2,  Private goods-producing industries,1242666
-08035,Douglas,CO,3,  Private services-providing industries,11812090
-08035,Douglas,CO,4,  Government and government enterprises,753632
-08037,Eagle,CO,1,All Industries,3796253
-08037,Eagle,CO,2,  Private goods-producing industries,224515
-08037,Eagle,CO,3,  Private services-providing industries,3361306
-08037,Eagle,CO,4,  Government and government enterprises,210433
-08039,Elbert,CO,1,All Industries,323042
-08039,Elbert,CO,2,  Private goods-producing industries,84201
-08039,Elbert,CO,3,  Private services-providing industries,190907
-08039,Elbert,CO,4,  Government and government enterprises,47934
-08041,El Paso,CO,1,All Industries,26676740
-08041,El Paso,CO,2,  Private goods-producing industries,2748890
-08041,El Paso,CO,3,  Private services-providing industries,15972702
-08041,El Paso,CO,4,  Government and government enterprises,7955148
-08043,Fremont,CO,1,All Industries,947060
-08043,Fremont,CO,2,  Private goods-producing industries,133357
-08043,Fremont,CO,3,  Private services-providing industries,407370
-08043,Fremont,CO,4,  Government and government enterprises,406333
-08045,Garfield,CO,1,All Industries,2583762
-08045,Garfield,CO,2,  Private goods-producing industries,618625
-08045,Garfield,CO,3,  Private services-providing industries,1644577
-08045,Garfield,CO,4,  Government and government enterprises,320561
-08047,Gilpin,CO,1,All Industries,501661
-08047,Gilpin,CO,2,  Private goods-producing industries,8375
-08047,Gilpin,CO,3,  Private services-providing industries,462234
-08047,Gilpin,CO,4,  Government and government enterprises,31051
-08049,Grand,CO,1,All Industries,624980
-08049,Grand,CO,2,  Private goods-producing industries,57361
-08049,Grand,CO,3,  Private services-providing industries,482190
-08049,Grand,CO,4,  Government and government enterprises,85430
-08051,Gunnison,CO,1,All Industries,792280
-08051,Gunnison,CO,2,  Private goods-producing industries,304024
-08051,Gunnison,CO,3,  Private services-providing industries,372011
-08051,Gunnison,CO,4,  Government and government enterprises,116245
-08053,Hinsdale,CO,1,All Industries,18679
-08053,Hinsdale,CO,2,  Private goods-producing industries,3671
-08053,Hinsdale,CO,3,  Private services-providing industries,10968
-08053,Hinsdale,CO,4,  Government and government enterprises,4040
-08055,Huerfano,CO,1,All Industries,140198
-08055,Huerfano,CO,2,  Private goods-producing industries,17720
-08055,Huerfano,CO,3,  Private services-providing industries,99111
-08055,Huerfano,CO,4,  Government and government enterprises,23367
-08057,Jackson,CO,1,All Industries,53347
-08057,Jackson,CO,2,  Private goods-producing industries,11786
-08057,Jackson,CO,3,  Private services-providing industries,31562
-08057,Jackson,CO,4,  Government and government enterprises,9998
-08059,Jefferson,CO,1,All Industries,21362769
-08059,Jefferson,CO,2,  Private goods-producing industries,3891255
-08059,Jefferson,CO,3,  Private services-providing industries,14350206
-08059,Jefferson,CO,4,  Government and government enterprises,3121308
-08061,Kiowa,CO,1,All Industries,70129
-08061,Kiowa,CO,2,  Private goods-producing industries,33803
-08061,Kiowa,CO,3,  Private services-providing industries,23823
-08061,Kiowa,CO,4,  Government and government enterprises,12503
-08063,Kit Carson,CO,1,All Industries,399830
-08063,Kit Carson,CO,2,  Private goods-producing industries,147133
-08063,Kit Carson,CO,3,  Private services-providing industries,215174
-08063,Kit Carson,CO,4,  Government and government enterprises,37523
-08065,Lake,CO,1,All Industries,205710
-08065,Lake,CO,2,  Private goods-producing industries,105770
-08065,Lake,CO,3,  Private services-providing industries,60400
-08065,Lake,CO,4,  Government and government enterprises,39540
-08067,La Plata,CO,1,All Industries,2263686
-08067,La Plata,CO,2,  Private goods-producing industries,307797
-08067,La Plata,CO,3,  Private services-providing industries,1572825
-08067,La Plata,CO,4,  Government and government enterprises,383064
-08069,Larimer,CO,1,All Industries,11615652
-08069,Larimer,CO,2,  Private goods-producing industries,2298624
-08069,Larimer,CO,3,  Private services-providing industries,7387162
-08069,Larimer,CO,4,  Government and government enterprises,1929866
-08071,Las Animas,CO,1,All Industries,412501
-08071,Las Animas,CO,2,  Private goods-producing industries,110274
-08071,Las Animas,CO,3,  Private services-providing industries,214932
-08071,Las Animas,CO,4,  Government and government enterprises,87295
-08073,Lincoln,CO,1,All Industries,248655
-08073,Lincoln,CO,2,  Private goods-producing industries,29111
-08073,Lincoln,CO,3,  Private services-providing industries,161491
-08073,Lincoln,CO,4,  Government and government enterprises,58053
-08075,Logan,CO,1,All Industries,957602
-08075,Logan,CO,2,  Private goods-producing industries,306504
-08075,Logan,CO,3,  Private services-providing industries,514472
-08075,Logan,CO,4,  Government and government enterprises,136627
-08077,Mesa,CO,1,All Industries,5585262
-08077,Mesa,CO,2,  Private goods-producing industries,1147623
-08077,Mesa,CO,3,  Private services-providing industries,3749583
-08077,Mesa,CO,4,  Government and government enterprises,688056
-08079,Mineral,CO,1,All Industries,36862
-08079,Mineral,CO,2,  Private goods-producing industries,5506
-08079,Mineral,CO,3,  Private services-providing industries,27464
-08079,Mineral,CO,4,  Government and government enterprises,3893
-08081,Moffat,CO,1,All Industries,1013465
-08081,Moffat,CO,2,  Private goods-producing industries,195213
-08081,Moffat,CO,3,  Private services-providing industries,743059
-08081,Moffat,CO,4,  Government and government enterprises,75193
-08083,Montezuma,CO,1,All Industries,642252
-08083,Montezuma,CO,2,  Private goods-producing industries,132672
-08083,Montezuma,CO,3,  Private services-providing industries,355862
-08083,Montezuma,CO,4,  Government and government enterprises,153718
-08085,Montrose,CO,1,All Industries,1151941
-08085,Montrose,CO,2,  Private goods-producing industries,254743
-08085,Montrose,CO,3,  Private services-providing industries,696968
-08085,Montrose,CO,4,  Government and government enterprises,200230
-08087,Morgan,CO,1,All Industries,1317762
-08087,Morgan,CO,2,  Private goods-producing industries,543453
-08087,Morgan,CO,3,  Private services-providing industries,656960
-08087,Morgan,CO,4,  Government and government enterprises,117349
-08089,Otero,CO,1,All Industries,472896
-08089,Otero,CO,2,  Private goods-producing industries,90524
-08089,Otero,CO,3,  Private services-providing industries,290605
-08089,Otero,CO,4,  Government and government enterprises,91767
-08091,Ouray,CO,1,All Industries,129845
-08091,Ouray,CO,2,  Private goods-producing industries,33919
-08091,Ouray,CO,3,  Private services-providing industries,75894
-08091,Ouray,CO,4,  Government and government enterprises,20032
-08093,Park,CO,1,All Industries,213832
-08093,Park,CO,2,  Private goods-producing industries,36396
-08093,Park,CO,3,  Private services-providing industries,132716
-08093,Park,CO,4,  Government and government enterprises,44720
-08095,Phillips,CO,1,All Industries,189199
-08095,Phillips,CO,2,  Private goods-producing industries,77008
-08095,Phillips,CO,3,  Private services-providing industries,81474
-08095,Phillips,CO,4,  Government and government enterprises,30717
-08097,Pitkin,CO,1,All Industries,2051936
-08097,Pitkin,CO,2,  Private goods-producing industries,66495
-08097,Pitkin,CO,3,  Private services-providing industries,1822320
-08097,Pitkin,CO,4,  Government and government enterprises,163120
-08099,Prowers,CO,1,All Industries,400007
-08099,Prowers,CO,2,  Private goods-producing industries,132672
-08099,Prowers,CO,3,  Private services-providing industries,192139
-08099,Prowers,CO,4,  Government and government enterprises,75196
-08101,Pueblo,CO,1,All Industries,4956921
-08101,Pueblo,CO,2,  Private goods-producing industries,839669
-08101,Pueblo,CO,3,  Private services-providing industries,3299799
-08101,Pueblo,CO,4,  Government and government enterprises,817452
-08103,Rio Blanco,CO,1,All Industries,338885
-08103,Rio Blanco,CO,2,  Private goods-producing industries,178115
-08103,Rio Blanco,CO,3,  Private services-providing industries,91506
-08103,Rio Blanco,CO,4,  Government and government enterprises,69265
-08105,Rio Grande,CO,1,All Industries,317361
-08105,Rio Grande,CO,2,  Private goods-producing industries,106627
-08105,Rio Grande,CO,3,  Private services-providing industries,155848
-08105,Rio Grande,CO,4,  Government and government enterprises,54887
-08107,Routt,CO,1,All Industries,2035891
-08107,Routt,CO,2,  Private goods-producing industries,484167
-08107,Routt,CO,3,  Private services-providing industries,1439495
-08107,Routt,CO,4,  Government and government enterprises,112230
-08109,Saguache,CO,1,All Industries,135088
-08109,Saguache,CO,2,  Private goods-producing industries,68115
-08109,Saguache,CO,3,  Private services-providing industries,41099
-08109,Saguache,CO,4,  Government and government enterprises,25873
-08111,San Juan,CO,1,All Industries,36116
-08111,San Juan,CO,2,  Private goods-producing industries,3108
-08111,San Juan,CO,3,  Private services-providing industries,28928
-08111,San Juan,CO,4,  Government and government enterprises,4079
-08113,San Miguel,CO,1,All Industries,492152
-08113,San Miguel,CO,2,  Private goods-producing industries,41719
-08113,San Miguel,CO,3,  Private services-providing industries,400561
-08113,San Miguel,CO,4,  Government and government enterprises,49872
-08115,Sedgwick,CO,1,All Industries,78181
-08115,Sedgwick,CO,2,  Private goods-producing industries,33568
-08115,Sedgwick,CO,3,  Private services-providing industries,28286
-08115,Sedgwick,CO,4,  Government and government enterprises,16327
-08117,Summit,CO,1,All Industries,2022214
-08117,Summit,CO,2,  Private goods-producing industries,126512
-08117,Summit,CO,3,  Private services-providing industries,1748855
-08117,Summit,CO,4,  Government and government enterprises,146847
-08119,Teller,CO,1,All Industries,634990
-08119,Teller,CO,2,  Private goods-producing industries,169075
-08119,Teller,CO,3,  Private services-providing industries,392742
-08119,Teller,CO,4,  Government and government enterprises,73173
-08121,Washington,CO,1,All Industries,145960
-08121,Washington,CO,2,  Private goods-producing industries,69800
-08121,Washington,CO,3,  Private services-providing industries,52515
-08121,Washington,CO,4,  Government and government enterprises,23645
-08123,Weld,CO,1,All Industries,9667115
-08123,Weld,CO,2,  Private goods-producing industries,3417894
-08123,Weld,CO,3,  Private services-providing industries,5377345
-08123,Weld,CO,4,  Government and government enterprises,871876
-08125,Yuma,CO,1,All Industries,572414
-08125,Yuma,CO,2,  Private goods-producing industries,360427
-08125,Yuma,CO,3,  Private services-providing industries,156845
-08125,Yuma,CO,4,  Government and government enterprises,55142
-09001,Fairfield,CT,1,All Industries,85990353
-09001,Fairfield,CT,2,  Private goods-producing industries,11270812
-09001,Fairfield,CT,3,  Private services-providing industries,70146997
-09001,Fairfield,CT,4,  Government and government enterprises,4572544
-09003,Hartford,CT,1,All Industries,74772073
-09003,Hartford,CT,2,  Private goods-producing industries,10239283
-09003,Hartford,CT,3,  Private services-providing industries,57662056
-09003,Hartford,CT,4,  Government and government enterprises,6870734
-09005,Litchfield,CT,1,All Industries,6726941
-09005,Litchfield,CT,2,  Private goods-producing industries,1743264
-09005,Litchfield,CT,3,  Private services-providing industries,4284842
-09005,Litchfield,CT,4,  Government and government enterprises,698835
-09007,Middlesex,CT,1,All Industries,7915203
-09007,Middlesex,CT,2,  Private goods-producing industries,1917519
-09007,Middlesex,CT,3,  Private services-providing industries,4982400
-09007,Middlesex,CT,4,  Government and government enterprises,1015284
-09009,New Haven,CT,1,All Industries,43175833
-09009,New Haven,CT,2,  Private goods-producing industries,6445831
-09009,New Haven,CT,3,  Private services-providing industries,31847959
-09009,New Haven,CT,4,  Government and government enterprises,4882044
-09011,New London,CT,1,All Industries,17202894
-09011,New London,CT,2,  Private goods-producing industries,3129323
-09011,New London,CT,3,  Private services-providing industries,9655154
-09011,New London,CT,4,  Government and government enterprises,4418416
-09013,Tolland,CT,1,All Industries,4098185
-09013,Tolland,CT,2,  Private goods-producing industries,587154
-09013,Tolland,CT,3,  Private services-providing industries,2289758
-09013,Tolland,CT,4,  Government and government enterprises,1221273
-09015,Windham,CT,1,All Industries,3919490
-09015,Windham,CT,2,  Private goods-producing industries,842422
-09015,Windham,CT,3,  Private services-providing industries,2505804
-09015,Windham,CT,4,  Government and government enterprises,571264
+1001,Autauga,AL,1,All Industries,1383941
+1001,Autauga,AL,2,  Private goods-producing industries,286396
+1001,Autauga,AL,3,  Private services-providing industries,948490
+1001,Autauga,AL,4,  Government and government enterprises,149055
+1003,Baldwin,AL,1,All Industries,5599194
+1003,Baldwin,AL,2,  Private goods-producing industries,681871
+1003,Baldwin,AL,3,  Private services-providing industries,4306173
+1003,Baldwin,AL,4,  Government and government enterprises,611151
+1005,Barbour,AL,1,All Industries,639833
+1005,Barbour,AL,2,  Private goods-producing industries,253232
+1005,Barbour,AL,3,  Private services-providing industries,274894
+1005,Barbour,AL,4,  Government and government enterprises,111707
+1007,Bibb,AL,1,All Industries,297560
+1007,Bibb,AL,2,  Private goods-producing industries,98048
+1007,Bibb,AL,3,  Private services-providing industries,116767
+1007,Bibb,AL,4,  Government and government enterprises,82746
+1009,Blount,AL,1,All Industries,632761
+1009,Blount,AL,2,  Private goods-producing industries,187947
+1009,Blount,AL,3,  Private services-providing industries,310042
+1009,Blount,AL,4,  Government and government enterprises,134773
+1011,Bullock,AL,1,All Industries,191052
+1011,Bullock,AL,2,  Private goods-producing industries,67063
+1011,Bullock,AL,3,  Private services-providing industries,78889
+1011,Bullock,AL,4,  Government and government enterprises,45101
+1013,Butler,AL,1,All Industries,514216
+1013,Butler,AL,2,  Private goods-producing industries,189427
+1013,Butler,AL,3,  Private services-providing industries,263801
+1013,Butler,AL,4,  Government and government enterprises,60988
+1015,Calhoun,AL,1,All Industries,4073476
+1015,Calhoun,AL,2,  Private goods-producing industries,1051376
+1015,Calhoun,AL,3,  Private services-providing industries,1951870
+1015,Calhoun,AL,4,  Government and government enterprises,1070229
+1017,Chambers,AL,1,All Industries,567650
+1017,Chambers,AL,2,  Private goods-producing industries,177977
+1017,Chambers,AL,3,  Private services-providing industries,301425
+1017,Chambers,AL,4,  Government and government enterprises,88248
+1019,Cherokee,AL,1,All Industries,443582
+1019,Cherokee,AL,2,  Private goods-producing industries,153006
+1019,Cherokee,AL,3,  Private services-providing industries,212307
+1019,Cherokee,AL,4,  Government and government enterprises,78269
+1021,Chilton,AL,1,All Industries,715347
+1021,Chilton,AL,2,  Private goods-producing industries,265515
+1021,Chilton,AL,3,  Private services-providing industries,332066
+1021,Chilton,AL,4,  Government and government enterprises,117766
+1023,Choctaw,AL,1,All Industries,524082
+1023,Choctaw,AL,2,  Private goods-producing industries,341606
+1023,Choctaw,AL,3,  Private services-providing industries,150470
+1023,Choctaw,AL,4,  Government and government enterprises,32005
+1025,Clarke,AL,1,All Industries,700361
+1025,Clarke,AL,2,  Private goods-producing industries,302916
+1025,Clarke,AL,3,  Private services-providing industries,277638
+1025,Clarke,AL,4,  Government and government enterprises,119807
+1027,Clay,AL,1,All Industries,232085
+1027,Clay,AL,2,  Private goods-producing industries,107983
+1027,Clay,AL,3,  Private services-providing industries,69458
+1027,Clay,AL,4,  Government and government enterprises,54644
+1029,Cleburne,AL,1,All Industries,249914
+1029,Cleburne,AL,2,  Private goods-producing industries,117192
+1029,Cleburne,AL,3,  Private services-providing industries,82396
+1029,Cleburne,AL,4,  Government and government enterprises,50326
+1031,Coffee,AL,1,All Industries,1084201
+1031,Coffee,AL,2,  Private goods-producing industries,265330
+1031,Coffee,AL,3,  Private services-providing industries,644616
+1031,Coffee,AL,4,  Government and government enterprises,174255
+1033,Colbert,AL,1,All Industries,2393641
+1033,Colbert,AL,2,  Private goods-producing industries,968437
+1033,Colbert,AL,3,  Private services-providing industries,1004799
+1033,Colbert,AL,4,  Government and government enterprises,420405
+1035,Conecuh,AL,1,All Industries,256668
+1035,Conecuh,AL,2,  Private goods-producing industries,80752
+1035,Conecuh,AL,3,  Private services-providing industries,125321
+1035,Conecuh,AL,4,  Government and government enterprises,50595
+1037,Coosa,AL,1,All Industries,118371
+1037,Coosa,AL,2,  Private goods-producing industries,55985
+1037,Coosa,AL,3,  Private services-providing industries,39418
+1037,Coosa,AL,4,  Government and government enterprises,22968
+1039,Covington,AL,1,All Industries,978150
+1039,Covington,AL,2,  Private goods-producing industries,264628
+1039,Covington,AL,3,  Private services-providing industries,578392
+1039,Covington,AL,4,  Government and government enterprises,135130
+1041,Crenshaw,AL,1,All Industries,387037
+1041,Crenshaw,AL,2,  Private goods-producing industries,209695
+1041,Crenshaw,AL,3,  Private services-providing industries,139594
+1041,Crenshaw,AL,4,  Government and government enterprises,37748
+1043,Cullman,AL,1,All Industries,2301223
+1043,Cullman,AL,2,  Private goods-producing industries,859961
+1043,Cullman,AL,3,  Private services-providing industries,1178570
+1043,Cullman,AL,4,  Government and government enterprises,262692
+1045,Dale,AL,1,All Industries,2756921
+1045,Dale,AL,2,  Private goods-producing industries,655960
+1045,Dale,AL,3,  Private services-providing industries,544124
+1045,Dale,AL,4,  Government and government enterprises,1556837
+1047,Dallas,AL,1,All Industries,1125070
+1047,Dallas,AL,2,  Private goods-producing industries,466732
+1047,Dallas,AL,3,  Private services-providing industries,482901
+1047,Dallas,AL,4,  Government and government enterprises,175436
+1049,DeKalb,AL,1,All Industries,1485948
+1049,DeKalb,AL,2,  Private goods-producing industries,621541
+1049,DeKalb,AL,3,  Private services-providing industries,653821
+1049,DeKalb,AL,4,  Government and government enterprises,210586
+1051,Elmore,AL,1,All Industries,1396129
+1051,Elmore,AL,2,  Private goods-producing industries,367682
+1051,Elmore,AL,3,  Private services-providing industries,761650
+1051,Elmore,AL,4,  Government and government enterprises,266798
+1053,Escambia,AL,1,All Industries,1056880
+1053,Escambia,AL,2,  Private goods-producing industries,409352
+1053,Escambia,AL,3,  Private services-providing industries,405797
+1053,Escambia,AL,4,  Government and government enterprises,241730
+1055,Etowah,AL,1,All Industries,2607155
+1055,Etowah,AL,2,  Private goods-producing industries,598902
+1055,Etowah,AL,3,  Private services-providing industries,1646083
+1055,Etowah,AL,4,  Government and government enterprises,362171
+1057,Fayette,AL,1,All Industries,260930
+1057,Fayette,AL,2,  Private goods-producing industries,77155
+1057,Fayette,AL,3,  Private services-providing industries,111764
+1057,Fayette,AL,4,  Government and government enterprises,72012
+1059,Franklin,AL,1,All Industries,720181
+1059,Franklin,AL,2,  Private goods-producing industries,338431
+1059,Franklin,AL,3,  Private services-providing industries,261817
+1059,Franklin,AL,4,  Government and government enterprises,119932
+1061,Geneva,AL,1,All Industries,406627
+1061,Geneva,AL,2,  Private goods-producing industries,109883
+1061,Geneva,AL,3,  Private services-providing industries,211232
+1061,Geneva,AL,4,  Government and government enterprises,85512
+1063,Greene,AL,1,All Industries,246604
+1063,Greene,AL,2,  Private goods-producing industries,83883
+1063,Greene,AL,3,  Private services-providing industries,126516
+1063,Greene,AL,4,  Government and government enterprises,36205
+1065,Hale,AL,1,All Industries,226473
+1065,Hale,AL,2,  Private goods-producing industries,96228
+1065,Hale,AL,3,  Private services-providing industries,75600
+1065,Hale,AL,4,  Government and government enterprises,54645
+1067,Henry,AL,1,All Industries,259333
+1067,Henry,AL,2,  Private goods-producing industries,90180
+1067,Henry,AL,3,  Private services-providing industries,124227
+1067,Henry,AL,4,  Government and government enterprises,44926
+1069,Houston,AL,1,All Industries,4122576
+1069,Houston,AL,2,  Private goods-producing industries,631558
+1069,Houston,AL,3,  Private services-providing industries,2911756
+1069,Houston,AL,4,  Government and government enterprises,579262
+1071,Jackson,AL,1,All Industries,1327414
+1071,Jackson,AL,2,  Private goods-producing industries,469944
+1071,Jackson,AL,3,  Private services-providing industries,591884
+1071,Jackson,AL,4,  Government and government enterprises,265586
+1073,Jefferson,AL,1,All Industries,42005734
+1073,Jefferson,AL,2,  Private goods-producing industries,6416092
+1073,Jefferson,AL,3,  Private services-providing industries,30607156
+1073,Jefferson,AL,4,  Government and government enterprises,4982486
+1075,Lamar,AL,1,All Industries,276202
+1075,Lamar,AL,2,  Private goods-producing industries,103073
+1075,Lamar,AL,3,  Private services-providing industries,134240
+1075,Lamar,AL,4,  Government and government enterprises,38889
+1077,Lauderdale,AL,1,All Industries,2325961
+1077,Lauderdale,AL,2,  Private goods-producing industries,462457
+1077,Lauderdale,AL,3,  Private services-providing industries,1512987
+1077,Lauderdale,AL,4,  Government and government enterprises,350517
+1079,Lawrence,AL,1,All Industries,728868
+1079,Lawrence,AL,2,  Private goods-producing industries,401170
+1079,Lawrence,AL,3,  Private services-providing industries,234216
+1079,Lawrence,AL,4,  Government and government enterprises,93482
+1081,Lee,AL,1,All Industries,4668575
+1081,Lee,AL,2,  Private goods-producing industries,1106972
+1081,Lee,AL,3,  Private services-providing industries,2371808
+1081,Lee,AL,4,  Government and government enterprises,1189795
+1083,Limestone,AL,1,All Industries,2704953
+1083,Limestone,AL,2,  Private goods-producing industries,557918
+1083,Limestone,AL,3,  Private services-providing industries,1512480
+1083,Limestone,AL,4,  Government and government enterprises,634555
+1085,Lowndes,AL,1,All Industries,357630
+1085,Lowndes,AL,2,  Private goods-producing industries,233516
+1085,Lowndes,AL,3,  Private services-providing industries,85291
+1085,Lowndes,AL,4,  Government and government enterprises,38823
+1087,Macon,AL,1,All Industries,437454
+1087,Macon,AL,2,  Private goods-producing industries,70512
+1087,Macon,AL,3,  Private services-providing industries,124548
+1087,Macon,AL,4,  Government and government enterprises,242395
+1089,Madison,AL,1,All Industries,20870718
+1089,Madison,AL,2,  Private goods-producing industries,3367392
+1089,Madison,AL,3,  Private services-providing industries,12140810
+1089,Madison,AL,4,  Government and government enterprises,5362516
+1091,Marengo,AL,1,All Industries,574835
+1091,Marengo,AL,2,  Private goods-producing industries,248779
+1091,Marengo,AL,3,  Private services-providing industries,222303
+1091,Marengo,AL,4,  Government and government enterprises,103752
+1093,Marion,AL,1,All Industries,694213
+1093,Marion,AL,2,  Private goods-producing industries,289157
+1093,Marion,AL,3,  Private services-providing industries,305917
+1093,Marion,AL,4,  Government and government enterprises,99139
+1095,Marshall,AL,1,All Industries,2576840
+1095,Marshall,AL,2,  Private goods-producing industries,909728
+1095,Marshall,AL,3,  Private services-providing industries,1277830
+1095,Marshall,AL,4,  Government and government enterprises,389282
+1097,Mobile,AL,1,All Industries,17983867
+1097,Mobile,AL,2,  Private goods-producing industries,4739805
+1097,Mobile,AL,3,  Private services-providing industries,10997922
+1097,Mobile,AL,4,  Government and government enterprises,2246139
+1099,Monroe,AL,1,All Industries,623195
+1099,Monroe,AL,2,  Private goods-producing industries,241145
+1099,Monroe,AL,3,  Private services-providing industries,290964
+1099,Monroe,AL,4,  Government and government enterprises,91087
+1101,Montgomery,AL,1,All Industries,13104289
+1101,Montgomery,AL,2,  Private goods-producing industries,1631294
+1101,Montgomery,AL,3,  Private services-providing industries,7887464
+1101,Montgomery,AL,4,  Government and government enterprises,3585531
+1103,Morgan,AL,1,All Industries,4183977
+1103,Morgan,AL,2,  Private goods-producing industries,1601198
+1103,Morgan,AL,3,  Private services-providing industries,2070127
+1103,Morgan,AL,4,  Government and government enterprises,512652
+1105,Perry,AL,1,All Industries,179161
+1105,Perry,AL,2,  Private goods-producing industries,76322
+1105,Perry,AL,3,  Private services-providing industries,63272
+1105,Perry,AL,4,  Government and government enterprises,39567
+1107,Pickens,AL,1,All Industries,274572
+1107,Pickens,AL,2,  Private goods-producing industries,95807
+1107,Pickens,AL,3,  Private services-providing industries,122349
+1107,Pickens,AL,4,  Government and government enterprises,56416
+1109,Pike,AL,1,All Industries,1142083
+1109,Pike,AL,2,  Private goods-producing industries,370461
+1109,Pike,AL,3,  Private services-providing industries,570229
+1109,Pike,AL,4,  Government and government enterprises,201392
+1111,Randolph,AL,1,All Industries,335720
+1111,Randolph,AL,2,  Private goods-producing industries,111289
+1111,Randolph,AL,3,  Private services-providing industries,152078
+1111,Randolph,AL,4,  Government and government enterprises,72353
+1113,Russell,AL,1,All Industries,1201079
+1113,Russell,AL,2,  Private goods-producing industries,432317
+1113,Russell,AL,3,  Private services-providing industries,591633
+1113,Russell,AL,4,  Government and government enterprises,177128
+1115,St. Clair,AL,1,All Industries,1458587
+1115,St. Clair,AL,2,  Private goods-producing industries,474813
+1115,St. Clair,AL,3,  Private services-providing industries,781229
+1115,St. Clair,AL,4,  Government and government enterprises,202545
+1117,Shelby,AL,1,All Industries,8391914
+1117,Shelby,AL,2,  Private goods-producing industries,923932
+1117,Shelby,AL,3,  Private services-providing industries,6881428
+1117,Shelby,AL,4,  Government and government enterprises,586553
+1119,Sumter,AL,1,All Industries,240325
+1119,Sumter,AL,2,  Private goods-producing industries,56550
+1119,Sumter,AL,3,  Private services-providing industries,101195
+1119,Sumter,AL,4,  Government and government enterprises,82580
+1121,Talladega,AL,1,All Industries,2422265
+1121,Talladega,AL,2,  Private goods-producing industries,1155173
+1121,Talladega,AL,3,  Private services-providing industries,914133
+1121,Talladega,AL,4,  Government and government enterprises,352959
+1123,Tallapoosa,AL,1,All Industries,1004256
+1123,Tallapoosa,AL,2,  Private goods-producing industries,241543
+1123,Tallapoosa,AL,3,  Private services-providing industries,625233
+1123,Tallapoosa,AL,4,  Government and government enterprises,137480
+1125,Tuscaloosa,AL,1,All Industries,10199891
+1125,Tuscaloosa,AL,2,  Private goods-producing industries,3983648
+1125,Tuscaloosa,AL,3,  Private services-providing industries,4437667
+1125,Tuscaloosa,AL,4,  Government and government enterprises,1778575
+1127,Walker,AL,1,All Industries,1577706
+1127,Walker,AL,2,  Private goods-producing industries,392729
+1127,Walker,AL,3,  Private services-providing industries,974893
+1127,Walker,AL,4,  Government and government enterprises,210083
+1129,Washington,AL,1,All Industries,690145
+1129,Washington,AL,2,  Private goods-producing industries,439291
+1129,Washington,AL,3,  Private services-providing industries,194887
+1129,Washington,AL,4,  Government and government enterprises,55966
+1131,Wilcox,AL,1,All Industries,296863
+1131,Wilcox,AL,2,  Private goods-producing industries,140085
+1131,Wilcox,AL,3,  Private services-providing industries,109130
+1131,Wilcox,AL,4,  Government and government enterprises,47647
+1133,Winston,AL,1,All Industries,484525
+1133,Winston,AL,2,  Private goods-producing industries,216467
+1133,Winston,AL,3,  Private services-providing industries,194564
+1133,Winston,AL,4,  Government and government enterprises,73494
+2013,Aleutians East Borough,AK,1,All Industries,111032
+2013,Aleutians East Borough,AK,2,  Private goods-producing industries,69349
+2013,Aleutians East Borough,AK,3,  Private services-providing industries,20561
+2013,Aleutians East Borough,AK,4,  Government and government enterprises,21122
+2016,Aleutians West Census Area,AK,1,All Industries,363807
+2016,Aleutians West Census Area,AK,2,  Private goods-producing industries,166527
+2016,Aleutians West Census Area,AK,3,  Private services-providing industries,149508
+2016,Aleutians West Census Area,AK,4,  Government and government enterprises,47772
+2020,Anchorage Municipality,AK,1,All Industries,27571441
+2020,Anchorage Municipality,AK,2,  Private goods-producing industries,8312936
+2020,Anchorage Municipality,AK,3,  Private services-providing industries,14758020
+2020,Anchorage Municipality,AK,4,  Government and government enterprises,4500485
+2050,Bethel Census Area,AK,1,All Industries,699678
+2050,Bethel Census Area,AK,2,  Private goods-producing industries,25683
+2050,Bethel Census Area,AK,3,  Private services-providing industries,450469
+2050,Bethel Census Area,AK,4,  Government and government enterprises,223526
+2060,Bristol Bay Borough,AK,1,All Industries,104109
+2060,Bristol Bay Borough,AK,2,  Private goods-producing industries,39126
+2060,Bristol Bay Borough,AK,3,  Private services-providing industries,40665
+2060,Bristol Bay Borough,AK,4,  Government and government enterprises,24318
+2068,Denali Borough,AK,1,All Industries,254910
+2068,Denali Borough,AK,2,  Private goods-producing industries,100804
+2068,Denali Borough,AK,3,  Private services-providing industries,115321
+2068,Denali Borough,AK,4,  Government and government enterprises,38785
+2070,Dillingham Census Area,AK,1,All Industries,224497
+2070,Dillingham Census Area,AK,2,  Private goods-producing industries,37812
+2070,Dillingham Census Area,AK,3,  Private services-providing industries,131651
+2070,Dillingham Census Area,AK,4,  Government and government enterprises,55034
+2090,Fairbanks North Star Borough,AK,1,All Industries,5489188
+2090,Fairbanks North Star Borough,AK,2,  Private goods-producing industries,952516
+2090,Fairbanks North Star Borough,AK,3,  Private services-providing industries,2565890
+2090,Fairbanks North Star Borough,AK,4,  Government and government enterprises,1970781
+2100,Haines Borough,AK,1,All Industries,64685
+2100,Haines Borough,AK,2,  Private goods-producing industries,14909
+2100,Haines Borough,AK,3,  Private services-providing industries,33450
+2100,Haines Borough,AK,4,  Government and government enterprises,16326
+2105,Hoonah-Angoon Census Area,AK,1,All Industries,54407
+2105,Hoonah-Angoon Census Area,AK,2,  Private goods-producing industries,3750
+2105,Hoonah-Angoon Census Area,AK,3,  Private services-providing industries,22248
+2105,Hoonah-Angoon Census Area,AK,4,  Government and government enterprises,28409
+2110,Juneau City and Borough,AK,1,All Industries,2279424
+2110,Juneau City and Borough,AK,2,  Private goods-producing industries,625967
+2110,Juneau City and Borough,AK,3,  Private services-providing industries,860735
+2110,Juneau City and Borough,AK,4,  Government and government enterprises,792722
+2122,Kenai Peninsula Borough,AK,1,All Industries,3140724
+2122,Kenai Peninsula Borough,AK,2,  Private goods-producing industries,1380901
+2122,Kenai Peninsula Borough,AK,3,  Private services-providing industries,1292387
+2122,Kenai Peninsula Borough,AK,4,  Government and government enterprises,467436
+2130,Ketchikan Gateway Borough,AK,1,All Industries,802339
+2130,Ketchikan Gateway Borough,AK,2,  Private goods-producing industries,164562
+2130,Ketchikan Gateway Borough,AK,3,  Private services-providing industries,413331
+2130,Ketchikan Gateway Borough,AK,4,  Government and government enterprises,224447
+2150,Kodiak Island Borough,AK,1,All Industries,741748
+2150,Kodiak Island Borough,AK,2,  Private goods-producing industries,241094
+2150,Kodiak Island Borough,AK,3,  Private services-providing industries,270840
+2150,Kodiak Island Borough,AK,4,  Government and government enterprises,229814
+2158,Kusilvak Census Area,AK,1,All Industries,127397
+2158,Kusilvak Census Area,AK,2,  Private goods-producing industries,5463
+2158,Kusilvak Census Area,AK,3,  Private services-providing industries,36799
+2158,Kusilvak Census Area,AK,4,  Government and government enterprises,85135
+2164,Lake and Peninsula Borough,AK,1,All Industries,68147
+2164,Lake and Peninsula Borough,AK,2,  Private goods-producing industries,14504
+2164,Lake and Peninsula Borough,AK,3,  Private services-providing industries,24938
+2164,Lake and Peninsula Borough,AK,4,  Government and government enterprises,28705
+2170,Matanuska-Susitna Borough,AK,1,All Industries,2233060
+2170,Matanuska-Susitna Borough,AK,2,  Private goods-producing industries,347993
+2170,Matanuska-Susitna Borough,AK,3,  Private services-providing industries,1454629
+2170,Matanuska-Susitna Borough,AK,4,  Government and government enterprises,430439
+2180,Nome Census Area,AK,1,All Industries,402931
+2180,Nome Census Area,AK,2,  Private goods-producing industries,53936
+2180,Nome Census Area,AK,3,  Private services-providing industries,208526
+2180,Nome Census Area,AK,4,  Government and government enterprises,140469
+2185,North Slope Borough,AK,1,All Industries,8920976
+2185,North Slope Borough,AK,2,  Private goods-producing industries,8000241
+2185,North Slope Borough,AK,3,  Private services-providing industries,725815
+2185,North Slope Borough,AK,4,  Government and government enterprises,194919
+2188,Northwest Arctic Borough,AK,1,All Industries,628118
+2188,Northwest Arctic Borough,AK,2,  Private goods-producing industries,380761
+2188,Northwest Arctic Borough,AK,3,  Private services-providing industries,165346
+2188,Northwest Arctic Borough,AK,4,  Government and government enterprises,82012
+2195,Petersburg Borough,AK,1,All Industries,146199
+2195,Petersburg Borough,AK,2,  Private goods-producing industries,52375
+2195,Petersburg Borough,AK,3,  Private services-providing industries,39715
+2195,Petersburg Borough,AK,4,  Government and government enterprises,54109
+2198,Prince of Wales-Hyder Census Area,AK,1,All Industries,229136
+2198,Prince of Wales-Hyder Census Area,AK,2,  Private goods-producing industries,78190
+2198,Prince of Wales-Hyder Census Area,AK,3,  Private services-providing industries,79499
+2198,Prince of Wales-Hyder Census Area,AK,4,  Government and government enterprises,71447
+2220,Sitka City and Borough,AK,1,All Industries,404873
+2220,Sitka City and Borough,AK,2,  Private goods-producing industries,62839
+2220,Sitka City and Borough,AK,3,  Private services-providing industries,213109
+2220,Sitka City and Borough,AK,4,  Government and government enterprises,128925
+2230,Skagway Municipality,AK,1,All Industries,67100
+2230,Skagway Municipality,AK,2,  Private goods-producing industries,8399
+2230,Skagway Municipality,AK,3,  Private services-providing industries,43086
+2230,Skagway Municipality,AK,4,  Government and government enterprises,15615
+2240,Southeast Fairbanks Census Area,AK,1,All Industries,603699
+2240,Southeast Fairbanks Census Area,AK,2,  Private goods-producing industries,390204
+2240,Southeast Fairbanks Census Area,AK,3,  Private services-providing industries,120979
+2240,Southeast Fairbanks Census Area,AK,4,  Government and government enterprises,92516
+2261,Valdez-Cordova Census Area,AK,1,All Industries,1535094
+2261,Valdez-Cordova Census Area,AK,2,  Private goods-producing industries,63312
+2261,Valdez-Cordova Census Area,AK,3,  Private services-providing industries,1333147
+2261,Valdez-Cordova Census Area,AK,4,  Government and government enterprises,138635
+2275,Wrangell City and Borough,AK,1,All Industries,60622
+2275,Wrangell City and Borough,AK,2,  Private goods-producing industries,11256
+2275,Wrangell City and Borough,AK,3,  Private services-providing industries,19343
+2275,Wrangell City and Borough,AK,4,  Government and government enterprises,30023
+2282,Yakutat City and Borough,AK,1,All Industries,24391
+2282,Yakutat City and Borough,AK,2,  Private goods-producing industries,2900
+2282,Yakutat City and Borough,AK,3,  Private services-providing industries,10002
+2282,Yakutat City and Borough,AK,4,  Government and government enterprises,11490
+2290,Yukon-Koyukuk Census Area,AK,1,All Industries,316396
+2290,Yukon-Koyukuk Census Area,AK,2,  Private goods-producing industries,92009
+2290,Yukon-Koyukuk Census Area,AK,3,  Private services-providing industries,120484
+2290,Yukon-Koyukuk Census Area,AK,4,  Government and government enterprises,103903
+4001,Apache,AZ,1,All Industries,2506715
+4001,Apache,AZ,2,  Private goods-producing industries,94295
+4001,Apache,AZ,3,  Private services-providing industries,1572081
+4001,Apache,AZ,4,  Government and government enterprises,840339
+4003,Cochise,AZ,1,All Industries,4114722
+4003,Cochise,AZ,2,  Private goods-producing industries,305252
+4003,Cochise,AZ,3,  Private services-providing industries,1746153
+4003,Cochise,AZ,4,  Government and government enterprises,2063316
+4005,Coconino,AZ,1,All Industries,5948938
+4005,Coconino,AZ,2,  Private goods-producing industries,717729
+4005,Coconino,AZ,3,  Private services-providing industries,3827736
+4005,Coconino,AZ,4,  Government and government enterprises,1403473
+4007,Gila,AZ,1,All Industries,1595348
+4007,Gila,AZ,2,  Private goods-producing industries,762921
+4007,Gila,AZ,3,  Private services-providing industries,502135
+4007,Gila,AZ,4,  Government and government enterprises,330293
+4009,Graham,AZ,1,All Industries,672246
+4009,Graham,AZ,2,  Private goods-producing industries,95234
+4009,Graham,AZ,3,  Private services-providing industries,363099
+4009,Graham,AZ,4,  Government and government enterprises,213913
+4011,Greenlee,AZ,1,All Industries,1263702
+4011,Greenlee,AZ,2,  Private goods-producing industries,1167625
+4011,Greenlee,AZ,3,  Private services-providing industries,61254
+4011,Greenlee,AZ,4,  Government and government enterprises,34823
+4012,La Paz,AZ,1,All Industries,496754
+4012,La Paz,AZ,2,  Private goods-producing industries,97969
+4012,La Paz,AZ,3,  Private services-providing industries,244836
+4012,La Paz,AZ,4,  Government and government enterprises,153949
+4013,Maricopa,AZ,1,All Industries,191057142
+4013,Maricopa,AZ,2,  Private goods-producing industries,26867865
+4013,Maricopa,AZ,3,  Private services-providing industries,144940728
+4013,Maricopa,AZ,4,  Government and government enterprises,19248548
+4015,Mohave,AZ,1,All Industries,4002396
+4015,Mohave,AZ,2,  Private goods-producing industries,558327
+4015,Mohave,AZ,3,  Private services-providing industries,2831611
+4015,Mohave,AZ,4,  Government and government enterprises,612458
+4017,Navajo,AZ,1,All Industries,3027709
+4017,Navajo,AZ,2,  Private goods-producing industries,446481
+4017,Navajo,AZ,3,  Private services-providing industries,1885443
+4017,Navajo,AZ,4,  Government and government enterprises,695786
+4019,Pima,AZ,1,All Industries,36093975
+4019,Pima,AZ,2,  Private goods-producing industries,6895241
+4019,Pima,AZ,3,  Private services-providing industries,21624079
+4019,Pima,AZ,4,  Government and government enterprises,7574655
+4021,Pinal,AZ,1,All Industries,6093707
+4021,Pinal,AZ,2,  Private goods-producing industries,2057601
+4021,Pinal,AZ,3,  Private services-providing industries,2403996
+4021,Pinal,AZ,4,  Government and government enterprises,1632110
+4023,Santa Cruz,AZ,1,All Industries,1330985
+4023,Santa Cruz,AZ,2,  Private goods-producing industries,81263
+4023,Santa Cruz,AZ,3,  Private services-providing industries,814456
+4023,Santa Cruz,AZ,4,  Government and government enterprises,435267
+4025,Yavapai,AZ,1,All Industries,4788236
+4025,Yavapai,AZ,2,  Private goods-producing industries,909338
+4025,Yavapai,AZ,3,  Private services-providing industries,3066635
+4025,Yavapai,AZ,4,  Government and government enterprises,812263
+4027,Yuma,AZ,1,All Industries,5296249
+4027,Yuma,AZ,2,  Private goods-producing industries,997369
+4027,Yuma,AZ,3,  Private services-providing industries,2529235
+4027,Yuma,AZ,4,  Government and government enterprises,1769644
+5001,Arkansas,AR,1,All Industries,830826
+5001,Arkansas,AR,2,  Private goods-producing industries,374895
+5001,Arkansas,AR,3,  Private services-providing industries,385584
+5001,Arkansas,AR,4,  Government and government enterprises,70347
+5003,Ashley,AR,1,All Industries,883239
+5003,Ashley,AR,2,  Private goods-producing industries,565104
+5003,Ashley,AR,3,  Private services-providing industries,252872
+5003,Ashley,AR,4,  Government and government enterprises,65263
+5005,Baxter,AR,1,All Industries,1043237
+5005,Baxter,AR,2,  Private goods-producing industries,231497
+5005,Baxter,AR,3,  Private services-providing industries,708823
+5005,Baxter,AR,4,  Government and government enterprises,102916
+5007,Benton,AR,1,All Industries,10704104
+5007,Benton,AR,2,  Private goods-producing industries,1396473
+5007,Benton,AR,3,  Private services-providing industries,8680660
+5007,Benton,AR,4,  Government and government enterprises,626971
+5009,Boone,AR,1,All Industries,1119565
+5009,Boone,AR,2,  Private goods-producing industries,226589
+5009,Boone,AR,3,  Private services-providing industries,700997
+5009,Boone,AR,4,  Government and government enterprises,191979
+5011,Bradley,AR,1,All Industries,240726
+5011,Bradley,AR,2,  Private goods-producing industries,85546
+5011,Bradley,AR,3,  Private services-providing industries,108089
+5011,Bradley,AR,4,  Government and government enterprises,47092
+5013,Calhoun,AR,1,All Industries,288586
+5013,Calhoun,AR,2,  Private goods-producing industries,220150
+5013,Calhoun,AR,3,  Private services-providing industries,53903
+5013,Calhoun,AR,4,  Government and government enterprises,14533
+5015,Carroll,AR,1,All Industries,652964
+5015,Carroll,AR,2,  Private goods-producing industries,286162
+5015,Carroll,AR,3,  Private services-providing industries,298197
+5015,Carroll,AR,4,  Government and government enterprises,68605
+5017,Chicot,AR,1,All Industries,255790
+5017,Chicot,AR,2,  Private goods-producing industries,72775
+5017,Chicot,AR,3,  Private services-providing industries,126614
+5017,Chicot,AR,4,  Government and government enterprises,56401
+5019,Clark,AR,1,All Industries,726679
+5019,Clark,AR,2,  Private goods-producing industries,187474
+5019,Clark,AR,3,  Private services-providing industries,400738
+5019,Clark,AR,4,  Government and government enterprises,138467
+5021,Clay,AR,1,All Industries,295622
+5021,Clay,AR,2,  Private goods-producing industries,89165
+5021,Clay,AR,3,  Private services-providing industries,158590
+5021,Clay,AR,4,  Government and government enterprises,47866
+5023,Cleburne,AR,1,All Industries,592978
+5023,Cleburne,AR,2,  Private goods-producing industries,198000
+5023,Cleburne,AR,3,  Private services-providing industries,339485
+5023,Cleburne,AR,4,  Government and government enterprises,55492
+5025,Cleveland,AR,1,All Industries,91220
+5025,Cleveland,AR,2,  Private goods-producing industries,43829
+5025,Cleveland,AR,3,  Private services-providing industries,27849
+5025,Cleveland,AR,4,  Government and government enterprises,19541
+5027,Columbia,AR,1,All Industries,887037
+5027,Columbia,AR,2,  Private goods-producing industries,484169
+5027,Columbia,AR,3,  Private services-providing industries,291541
+5027,Columbia,AR,4,  Government and government enterprises,111327
+5029,Conway,AR,1,All Industries,595300
+5029,Conway,AR,2,  Private goods-producing industries,242955
+5029,Conway,AR,3,  Private services-providing industries,275189
+5029,Conway,AR,4,  Government and government enterprises,77155
+5031,Craighead,AR,1,All Industries,3707662
+5031,Craighead,AR,2,  Private goods-producing industries,766585
+5031,Craighead,AR,3,  Private services-providing industries,2450223
+5031,Craighead,AR,4,  Government and government enterprises,490855
+5033,Crawford,AR,1,All Industries,1543442
+5033,Crawford,AR,2,  Private goods-producing industries,421933
+5033,Crawford,AR,3,  Private services-providing industries,976762
+5033,Crawford,AR,4,  Government and government enterprises,144748
+5035,Crittenden,AR,1,All Industries,1431966
+5035,Crittenden,AR,2,  Private goods-producing industries,255821
+5035,Crittenden,AR,3,  Private services-providing industries,993086
+5035,Crittenden,AR,4,  Government and government enterprises,183060
+5037,Cross,AR,1,All Industries,438719
+5037,Cross,AR,2,  Private goods-producing industries,115980
+5037,Cross,AR,3,  Private services-providing industries,253586
+5037,Cross,AR,4,  Government and government enterprises,69153
+5039,Dallas,AR,1,All Industries,177988
+5039,Dallas,AR,2,  Private goods-producing industries,65998
+5039,Dallas,AR,3,  Private services-providing industries,92790
+5039,Dallas,AR,4,  Government and government enterprises,19201
+5041,Desha,AR,1,All Industries,428200
+5041,Desha,AR,2,  Private goods-producing industries,169139
+5041,Desha,AR,3,  Private services-providing industries,206387
+5041,Desha,AR,4,  Government and government enterprises,52673
+5043,Drew,AR,1,All Industries,496838
+5043,Drew,AR,2,  Private goods-producing industries,134834
+5043,Drew,AR,3,  Private services-providing industries,244661
+5043,Drew,AR,4,  Government and government enterprises,117343
+5045,Faulkner,AR,1,All Industries,3726513
+5045,Faulkner,AR,2,  Private goods-producing industries,1039785
+5045,Faulkner,AR,3,  Private services-providing industries,2206375
+5045,Faulkner,AR,4,  Government and government enterprises,480353
+5047,Franklin,AR,1,All Industries,391648
+5047,Franklin,AR,2,  Private goods-producing industries,185981
+5047,Franklin,AR,3,  Private services-providing industries,139952
+5047,Franklin,AR,4,  Government and government enterprises,65715
+5049,Fulton,AR,1,All Industries,150771
+5049,Fulton,AR,2,  Private goods-producing industries,38939
+5049,Fulton,AR,3,  Private services-providing industries,78205
+5049,Fulton,AR,4,  Government and government enterprises,33626
+5051,Garland,AR,1,All Industries,2934315
+5051,Garland,AR,2,  Private goods-producing industries,416035
+5051,Garland,AR,3,  Private services-providing industries,2186531
+5051,Garland,AR,4,  Government and government enterprises,331748
+5053,Grant,AR,1,All Industries,303900
+5053,Grant,AR,2,  Private goods-producing industries,125236
+5053,Grant,AR,3,  Private services-providing industries,128100
+5053,Grant,AR,4,  Government and government enterprises,50564
+5055,Greene,AR,1,All Industries,1158505
+5055,Greene,AR,2,  Private goods-producing industries,502281
+5055,Greene,AR,3,  Private services-providing industries,528384
+5055,Greene,AR,4,  Government and government enterprises,127841
+5057,Hempstead,AR,1,All Industries,664534
+5057,Hempstead,AR,2,  Private goods-producing industries,281752
+5057,Hempstead,AR,3,  Private services-providing industries,277675
+5057,Hempstead,AR,4,  Government and government enterprises,105106
+5059,Hot Spring,AR,1,All Industries,781325
+5059,Hot Spring,AR,2,  Private goods-producing industries,214057
+5059,Hot Spring,AR,3,  Private services-providing industries,452221
+5059,Hot Spring,AR,4,  Government and government enterprises,115047
+5061,Howard,AR,1,All Industries,494267
+5061,Howard,AR,2,  Private goods-producing industries,288515
+5061,Howard,AR,3,  Private services-providing industries,156724
+5061,Howard,AR,4,  Government and government enterprises,49028
+5063,Independence,AR,1,All Industries,1445838
+5063,Independence,AR,2,  Private goods-producing industries,348829
+5063,Independence,AR,3,  Private services-providing industries,967298
+5063,Independence,AR,4,  Government and government enterprises,129711
+5065,Izard,AR,1,All Industries,246718
+5065,Izard,AR,2,  Private goods-producing industries,70558
+5065,Izard,AR,3,  Private services-providing industries,118797
+5065,Izard,AR,4,  Government and government enterprises,57363
+5067,Jackson,AR,1,All Industries,471583
+5067,Jackson,AR,2,  Private goods-producing industries,177048
+5067,Jackson,AR,3,  Private services-providing industries,212476
+5067,Jackson,AR,4,  Government and government enterprises,82059
+5069,Jefferson,AR,1,All Industries,3002468
+5069,Jefferson,AR,2,  Private goods-producing industries,781883
+5069,Jefferson,AR,3,  Private services-providing industries,1605957
+5069,Jefferson,AR,4,  Government and government enterprises,614628
+5071,Johnson,AR,1,All Industries,578655
+5071,Johnson,AR,2,  Private goods-producing industries,219445
+5071,Johnson,AR,3,  Private services-providing industries,286549
+5071,Johnson,AR,4,  Government and government enterprises,72661
+5073,Lafayette,AR,1,All Industries,122883
+5073,Lafayette,AR,2,  Private goods-producing industries,58198
+5073,Lafayette,AR,3,  Private services-providing industries,45278
+5073,Lafayette,AR,4,  Government and government enterprises,19407
+5075,Lawrence,AR,1,All Industries,313636
+5075,Lawrence,AR,2,  Private goods-producing industries,93385
+5075,Lawrence,AR,3,  Private services-providing industries,152316
+5075,Lawrence,AR,4,  Government and government enterprises,67935
+5077,Lee,AR,1,All Industries,174313
+5077,Lee,AR,2,  Private goods-producing industries,49457
+5077,Lee,AR,3,  Private services-providing industries,76595
+5077,Lee,AR,4,  Government and government enterprises,48261
+5079,Lincoln,AR,1,All Industries,234512
+5079,Lincoln,AR,2,  Private goods-producing industries,79939
+5079,Lincoln,AR,3,  Private services-providing industries,72392
+5079,Lincoln,AR,4,  Government and government enterprises,82180
+5081,Little River,AR,1,All Industries,498522
+5081,Little River,AR,2,  Private goods-producing industries,326054
+5081,Little River,AR,3,  Private services-providing industries,122357
+5081,Little River,AR,4,  Government and government enterprises,50111
+5083,Logan,AR,1,All Industries,429941
+5083,Logan,AR,2,  Private goods-producing industries,192277
+5083,Logan,AR,3,  Private services-providing industries,159443
+5083,Logan,AR,4,  Government and government enterprises,78221
+5085,Lonoke,AR,1,All Industries,1036485
+5085,Lonoke,AR,2,  Private goods-producing industries,281847
+5085,Lonoke,AR,3,  Private services-providing industries,585597
+5085,Lonoke,AR,4,  Government and government enterprises,169042
+5087,Madison,AR,1,All Industries,270693
+5087,Madison,AR,2,  Private goods-producing industries,134434
+5087,Madison,AR,3,  Private services-providing industries,98010
+5087,Madison,AR,4,  Government and government enterprises,38249
+5089,Marion,AR,1,All Industries,383695
+5089,Marion,AR,2,  Private goods-producing industries,217482
+5089,Marion,AR,3,  Private services-providing industries,132732
+5089,Marion,AR,4,  Government and government enterprises,33482
+5091,Miller,AR,1,All Industries,1199015
+5091,Miller,AR,2,  Private goods-producing industries,420595
+5091,Miller,AR,3,  Private services-providing industries,640901
+5091,Miller,AR,4,  Government and government enterprises,137519
+5093,Mississippi,AR,1,All Industries,2155097
+5093,Mississippi,AR,2,  Private goods-producing industries,1123834
+5093,Mississippi,AR,3,  Private services-providing industries,867586
+5093,Mississippi,AR,4,  Government and government enterprises,163678
+5095,Monroe,AR,1,All Industries,216154
+5095,Monroe,AR,2,  Private goods-producing industries,53851
+5095,Monroe,AR,3,  Private services-providing industries,136686
+5095,Monroe,AR,4,  Government and government enterprises,25618
+5097,Montgomery,AR,1,All Industries,113913
+5097,Montgomery,AR,2,  Private goods-producing industries,26836
+5097,Montgomery,AR,3,  Private services-providing industries,56826
+5097,Montgomery,AR,4,  Government and government enterprises,30251
+5099,Nevada,AR,1,All Industries,214488
+5099,Nevada,AR,2,  Private goods-producing industries,94037
+5099,Nevada,AR,3,  Private services-providing industries,96746
+5099,Nevada,AR,4,  Government and government enterprises,23705
+5101,Newton,AR,1,All Industries,73313
+5101,Newton,AR,2,  Private goods-producing industries,16581
+5101,Newton,AR,3,  Private services-providing industries,31301
+5101,Newton,AR,4,  Government and government enterprises,25431
+5103,Ouachita,AR,1,All Industries,598731
+5103,Ouachita,AR,2,  Private goods-producing industries,185224
+5103,Ouachita,AR,3,  Private services-providing industries,300609
+5103,Ouachita,AR,4,  Government and government enterprises,112898
+5105,Perry,AR,1,All Industries,101627
+5105,Perry,AR,2,  Private goods-producing industries,37617
+5105,Perry,AR,3,  Private services-providing industries,41020
+5105,Perry,AR,4,  Government and government enterprises,22991
+5107,Phillips,AR,1,All Industries,468293
+5107,Phillips,AR,2,  Private goods-producing industries,98687
+5107,Phillips,AR,3,  Private services-providing industries,283925
+5107,Phillips,AR,4,  Government and government enterprises,85681
+5109,Pike,AR,1,All Industries,201756
+5109,Pike,AR,2,  Private goods-producing industries,51666
+5109,Pike,AR,3,  Private services-providing industries,116006
+5109,Pike,AR,4,  Government and government enterprises,34084
+5111,Poinsett,AR,1,All Industries,521451
+5111,Poinsett,AR,2,  Private goods-producing industries,151437
+5111,Poinsett,AR,3,  Private services-providing industries,297776
+5111,Poinsett,AR,4,  Government and government enterprises,72238
+5113,Polk,AR,1,All Industries,415129
+5113,Polk,AR,2,  Private goods-producing industries,143203
+5113,Polk,AR,3,  Private services-providing industries,209898
+5113,Polk,AR,4,  Government and government enterprises,62028
+5115,Pope,AR,1,All Industries,2503731
+5115,Pope,AR,2,  Private goods-producing industries,537895
+5115,Pope,AR,3,  Private services-providing industries,1694842
+5115,Pope,AR,4,  Government and government enterprises,270994
+5117,Prairie,AR,1,All Industries,140058
+5117,Prairie,AR,2,  Private goods-producing industries,51556
+5117,Prairie,AR,3,  Private services-providing industries,65221
+5117,Prairie,AR,4,  Government and government enterprises,23280
+5119,Pulaski,AR,1,All Industries,26338703
+5119,Pulaski,AR,2,  Private goods-producing industries,2608271
+5119,Pulaski,AR,3,  Private services-providing industries,18656197
+5119,Pulaski,AR,4,  Government and government enterprises,5074235
+5121,Randolph,AR,1,All Industries,318848
+5121,Randolph,AR,2,  Private goods-producing industries,74163
+5121,Randolph,AR,3,  Private services-providing industries,188324
+5121,Randolph,AR,4,  Government and government enterprises,56361
+5123,St. Francis,AR,1,All Industries,638792
+5123,St. Francis,AR,2,  Private goods-producing industries,111088
+5123,St. Francis,AR,3,  Private services-providing industries,359530
+5123,St. Francis,AR,4,  Government and government enterprises,168174
+5125,Saline,AR,1,All Industries,1840987
+5125,Saline,AR,2,  Private goods-producing industries,336325
+5125,Saline,AR,3,  Private services-providing industries,1209539
+5125,Saline,AR,4,  Government and government enterprises,295123
+5127,Scott,AR,1,All Industries,196991
+5127,Scott,AR,2,  Private goods-producing industries,98634
+5127,Scott,AR,3,  Private services-providing industries,67614
+5127,Scott,AR,4,  Government and government enterprises,30742
+5129,Searcy,AR,1,All Industries,109258
+5129,Searcy,AR,2,  Private goods-producing industries,32213
+5129,Searcy,AR,3,  Private services-providing industries,51774
+5129,Searcy,AR,4,  Government and government enterprises,25271
+5131,Sebastian,AR,1,All Industries,6453074
+5131,Sebastian,AR,2,  Private goods-producing industries,1786606
+5131,Sebastian,AR,3,  Private services-providing industries,4109831
+5131,Sebastian,AR,4,  Government and government enterprises,556636
+5133,Sevier,AR,1,All Industries,353522
+5133,Sevier,AR,2,  Private goods-producing industries,127565
+5133,Sevier,AR,3,  Private services-providing industries,162761
+5133,Sevier,AR,4,  Government and government enterprises,63195
+5135,Sharp,AR,1,All Industries,255063
+5135,Sharp,AR,2,  Private goods-producing industries,42806
+5135,Sharp,AR,3,  Private services-providing industries,169836
+5135,Sharp,AR,4,  Government and government enterprises,42421
+5137,Stone,AR,1,All Industries,176225
+5137,Stone,AR,2,  Private goods-producing industries,36913
+5137,Stone,AR,3,  Private services-providing industries,106372
+5137,Stone,AR,4,  Government and government enterprises,32940
+5139,Union,AR,1,All Industries,3025342
+5139,Union,AR,2,  Private goods-producing industries,1486390
+5139,Union,AR,3,  Private services-providing industries,1387203
+5139,Union,AR,4,  Government and government enterprises,151749
+5141,Van Buren,AR,1,All Industries,383114
+5141,Van Buren,AR,2,  Private goods-producing industries,142984
+5141,Van Buren,AR,3,  Private services-providing industries,199210
+5141,Van Buren,AR,4,  Government and government enterprises,40920
+5143,Washington,AR,1,All Industries,9630946
+5143,Washington,AR,2,  Private goods-producing industries,1471888
+5143,Washington,AR,3,  Private services-providing industries,6853090
+5143,Washington,AR,4,  Government and government enterprises,1305967
+5145,White,AR,1,All Industries,2208213
+5145,White,AR,2,  Private goods-producing industries,691910
+5145,White,AR,3,  Private services-providing industries,1299340
+5145,White,AR,4,  Government and government enterprises,216963
+5147,Woodruff,AR,1,All Industries,171906
+5147,Woodruff,AR,2,  Private goods-producing industries,61628
+5147,Woodruff,AR,3,  Private services-providing industries,81113
+5147,Woodruff,AR,4,  Government and government enterprises,29165
+5149,Yell,AR,1,All Industries,473010
+5149,Yell,AR,2,  Private goods-producing industries,194320
+5149,Yell,AR,3,  Private services-providing industries,198320
+5149,Yell,AR,4,  Government and government enterprises,80370
+6001,Alameda,CA,1,All Industries,93795276
+6001,Alameda,CA,2,  Private goods-producing industries,15313173
+6001,Alameda,CA,3,  Private services-providing industries,66600579
+6001,Alameda,CA,4,  Government and government enterprises,11881524
+6003,Alpine,CA,1,All Industries,91253
+6003,Alpine,CA,2,  Private goods-producing industries,2435
+6003,Alpine,CA,3,  Private services-providing industries,70131
+6003,Alpine,CA,4,  Government and government enterprises,18686
+6005,Amador,CA,1,All Industries,1106242
+6005,Amador,CA,2,  Private goods-producing industries,193552
+6005,Amador,CA,3,  Private services-providing industries,566794
+6005,Amador,CA,4,  Government and government enterprises,345896
+6007,Butte,CA,1,All Industries,6399648
+6007,Butte,CA,2,  Private goods-producing industries,1018314
+6007,Butte,CA,3,  Private services-providing industries,4272030
+6007,Butte,CA,4,  Government and government enterprises,1109304
+6009,Calaveras,CA,1,All Industries,771457
+6009,Calaveras,CA,2,  Private goods-producing industries,115570
+6009,Calaveras,CA,3,  Private services-providing industries,463072
+6009,Calaveras,CA,4,  Government and government enterprises,192815
+6011,Colusa,CA,1,All Industries,1133356
+6011,Colusa,CA,2,  Private goods-producing industries,361633
+6011,Colusa,CA,3,  Private services-providing industries,625696
+6011,Colusa,CA,4,  Government and government enterprises,146026
+6013,Contra Costa,CA,1,All Industries,62121185
+6013,Contra Costa,CA,2,  Private goods-producing industries,19518050
+6013,Contra Costa,CA,3,  Private services-providing industries,37999850
+6013,Contra Costa,CA,4,  Government and government enterprises,4603284
+6015,Del Norte,CA,1,All Industries,599490
+6015,Del Norte,CA,2,  Private goods-producing industries,60981
+6015,Del Norte,CA,3,  Private services-providing industries,262543
+6015,Del Norte,CA,4,  Government and government enterprises,275966
+6017,El Dorado,CA,1,All Industries,5524161
+6017,El Dorado,CA,2,  Private goods-producing industries,693923
+6017,El Dorado,CA,3,  Private services-providing industries,4018835
+6017,El Dorado,CA,4,  Government and government enterprises,811403
+6019,Fresno,CA,1,All Industries,33775353
+6019,Fresno,CA,2,  Private goods-producing industries,7655334
+6019,Fresno,CA,3,  Private services-providing industries,20542143
+6019,Fresno,CA,4,  Government and government enterprises,5577877
+6021,Glenn,CA,1,All Industries,806251
+6021,Glenn,CA,2,  Private goods-producing industries,345656
+6021,Glenn,CA,3,  Private services-providing industries,303661
+6021,Glenn,CA,4,  Government and government enterprises,156934
+6023,Humboldt,CA,1,All Industries,3846207
+6023,Humboldt,CA,2,  Private goods-producing industries,565011
+6023,Humboldt,CA,3,  Private services-providing industries,2326975
+6023,Humboldt,CA,4,  Government and government enterprises,954220
+6025,Imperial,CA,1,All Industries,5696268
+6025,Imperial,CA,2,  Private goods-producing industries,1439309
+6025,Imperial,CA,3,  Private services-providing industries,2550285
+6025,Imperial,CA,4,  Government and government enterprises,1706674
+6027,Inyo,CA,1,All Industries,910652
+6027,Inyo,CA,2,  Private goods-producing industries,178292
+6027,Inyo,CA,3,  Private services-providing industries,472159
+6027,Inyo,CA,4,  Government and government enterprises,260201
+6029,Kern,CA,1,All Industries,39340854
+6029,Kern,CA,2,  Private goods-producing industries,14767089
+6029,Kern,CA,3,  Private services-providing industries,18409966
+6029,Kern,CA,4,  Government and government enterprises,6163799
+6031,Kings,CA,1,All Industries,5078462
+6031,Kings,CA,2,  Private goods-producing industries,1571822
+6031,Kings,CA,3,  Private services-providing industries,1453328
+6031,Kings,CA,4,  Government and government enterprises,2053312
+6033,Lake,CA,1,All Industries,1337816
+6033,Lake,CA,2,  Private goods-producing industries,193229
+6033,Lake,CA,3,  Private services-providing industries,884222
+6033,Lake,CA,4,  Government and government enterprises,260365
+6035,Lassen,CA,1,All Industries,989373
+6035,Lassen,CA,2,  Private goods-producing industries,129503
+6035,Lassen,CA,3,  Private services-providing industries,264114
+6035,Lassen,CA,4,  Government and government enterprises,595757
+6037,Los Angeles,CA,1,All Industries,593671075
+6037,Los Angeles,CA,2,  Private goods-producing industries,70641406
+6037,Los Angeles,CA,3,  Private services-providing industries,464547602
+6037,Los Angeles,CA,4,  Government and government enterprises,58482067
+6039,Madera,CA,1,All Industries,4438122
+6039,Madera,CA,2,  Private goods-producing industries,1633856
+6039,Madera,CA,3,  Private services-providing industries,2010428
+6039,Madera,CA,4,  Government and government enterprises,793838
+6041,Marin,CA,1,All Industries,17934235
+6041,Marin,CA,2,  Private goods-producing industries,1105931
+6041,Marin,CA,3,  Private services-providing industries,15195979
+6041,Marin,CA,4,  Government and government enterprises,1632324
+6043,Mariposa,CA,1,All Industries,445506
+6043,Mariposa,CA,2,  Private goods-producing industries,32697
+6043,Mariposa,CA,3,  Private services-providing industries,249851
+6043,Mariposa,CA,4,  Government and government enterprises,162959
+6045,Mendocino,CA,1,All Industries,2481677
+6045,Mendocino,CA,2,  Private goods-producing industries,533566
+6045,Mendocino,CA,3,  Private services-providing industries,1466839
+6045,Mendocino,CA,4,  Government and government enterprises,481272
+6047,Merced,CA,1,All Industries,6707751
+6047,Merced,CA,2,  Private goods-producing industries,2605037
+6047,Merced,CA,3,  Private services-providing industries,2756538
+6047,Merced,CA,4,  Government and government enterprises,1346176
+6049,Modoc,CA,1,All Industries,212855
+6049,Modoc,CA,2,  Private goods-producing industries,51522
+6049,Modoc,CA,3,  Private services-providing industries,71878
+6049,Modoc,CA,4,  Government and government enterprises,89455
+6051,Mono,CA,1,All Industries,662764
+6051,Mono,CA,2,  Private goods-producing industries,56272
+6051,Mono,CA,3,  Private services-providing industries,425325
+6051,Mono,CA,4,  Government and government enterprises,181168
+6053,Monterey,CA,1,All Industries,20011213
+6053,Monterey,CA,2,  Private goods-producing industries,5131338
+6053,Monterey,CA,3,  Private services-providing industries,10590059
+6053,Monterey,CA,4,  Government and government enterprises,4289816
+6055,Napa,CA,1,All Industries,7595001
+6055,Napa,CA,2,  Private goods-producing industries,2446556
+6055,Napa,CA,3,  Private services-providing industries,4251949
+6055,Napa,CA,4,  Government and government enterprises,896496
+6057,Nevada,CA,1,All Industries,3525492
+6057,Nevada,CA,2,  Private goods-producing industries,677408
+6057,Nevada,CA,3,  Private services-providing industries,2379078
+6057,Nevada,CA,4,  Government and government enterprises,469007
+6059,Orange,CA,1,All Industries,216205203
+6059,Orange,CA,2,  Private goods-producing industries,31275958
+6059,Orange,CA,3,  Private services-providing industries,170266880
+6059,Orange,CA,4,  Government and government enterprises,14662364
+6061,Placer,CA,1,All Industries,15998697
+6061,Placer,CA,2,  Private goods-producing industries,2038285
+6061,Placer,CA,3,  Private services-providing industries,12428582
+6061,Placer,CA,4,  Government and government enterprises,1531831
+6063,Plumas,CA,1,All Industries,699250
+6063,Plumas,CA,2,  Private goods-producing industries,99971
+6063,Plumas,CA,3,  Private services-providing industries,417509
+6063,Plumas,CA,4,  Government and government enterprises,181769
+6065,Riverside,CA,1,All Industries,61827909
+6065,Riverside,CA,2,  Private goods-producing industries,11850458
+6065,Riverside,CA,3,  Private services-providing industries,39522376
+6065,Riverside,CA,4,  Government and government enterprises,10455076
+6067,Sacramento,CA,1,All Industries,68329118
+6067,Sacramento,CA,2,  Private goods-producing industries,6071895
+6067,Sacramento,CA,3,  Private services-providing industries,42527546
+6067,Sacramento,CA,4,  Government and government enterprises,19729677
+6069,San Benito,CA,1,All Industries,1611342
+6069,San Benito,CA,2,  Private goods-producing industries,673033
+6069,San Benito,CA,3,  Private services-providing industries,698903
+6069,San Benito,CA,4,  Government and government enterprises,239405
+6071,San Bernardino,CA,1,All Industries,63540956
+6071,San Bernardino,CA,2,  Private goods-producing industries,8858196
+6071,San Bernardino,CA,3,  Private services-providing industries,41705948
+6071,San Bernardino,CA,4,  Government and government enterprises,12976812
+6073,San Diego,CA,1,All Industries,191216801
+6073,San Diego,CA,2,  Private goods-producing industries,22015046
+6073,San Diego,CA,3,  Private services-providing industries,129744529
+6073,San Diego,CA,4,  Government and government enterprises,39457226
+6075,San Francisco,CA,1,All Industries,119746763
+6075,San Francisco,CA,2,  Private goods-producing industries,4378559
+6075,San Francisco,CA,3,  Private services-providing industries,102414676
+6075,San Francisco,CA,4,  Government and government enterprises,12953529
+6077,San Joaquin,CA,1,All Industries,21697175
+6077,San Joaquin,CA,2,  Private goods-producing industries,4277922
+6077,San Joaquin,CA,3,  Private services-providing industries,14138554
+6077,San Joaquin,CA,4,  Government and government enterprises,3280699
+6079,San Luis Obispo,CA,1,All Industries,12511046
+6079,San Luis Obispo,CA,2,  Private goods-producing industries,1776544
+6079,San Luis Obispo,CA,3,  Private services-providing industries,8915589
+6079,San Luis Obispo,CA,4,  Government and government enterprises,1818913
+6081,San Mateo,CA,1,All Industries,78166257
+6081,San Mateo,CA,2,  Private goods-producing industries,11020113
+6081,San Mateo,CA,3,  Private services-providing industries,63804352
+6081,San Mateo,CA,4,  Government and government enterprises,3341792
+6083,Santa Barbara,CA,1,All Industries,21854525
+6083,Santa Barbara,CA,2,  Private goods-producing industries,4262402
+6083,Santa Barbara,CA,3,  Private services-providing industries,14008512
+6083,Santa Barbara,CA,4,  Government and government enterprises,3583610
+6085,Santa Clara,CA,1,All Industries,195550832
+6085,Santa Clara,CA,2,  Private goods-producing industries,55682457
+6085,Santa Clara,CA,3,  Private services-providing industries,130284946
+6085,Santa Clara,CA,4,  Government and government enterprises,9583429
+6087,Santa Cruz,CA,1,All Industries,10606613
+6087,Santa Cruz,CA,2,  Private goods-producing industries,2624441
+6087,Santa Cruz,CA,3,  Private services-providing industries,6427469
+6087,Santa Cruz,CA,4,  Government and government enterprises,1554703
+6089,Shasta,CA,1,All Industries,5844376
+6089,Shasta,CA,2,  Private goods-producing industries,603557
+6089,Shasta,CA,3,  Private services-providing industries,4224707
+6089,Shasta,CA,4,  Government and government enterprises,1016113
+6091,Sierra,CA,1,All Industries,52185
+6091,Sierra,CA,2,  Private goods-producing industries,7075
+6091,Sierra,CA,3,  Private services-providing industries,18640
+6091,Sierra,CA,4,  Government and government enterprises,26470
+6093,Siskiyou,CA,1,All Industries,1077938
+6093,Siskiyou,CA,2,  Private goods-producing industries,168685
+6093,Siskiyou,CA,3,  Private services-providing industries,614855
+6093,Siskiyou,CA,4,  Government and government enterprises,294398
+6095,Solano,CA,1,All Industries,20319752
+6095,Solano,CA,2,  Private goods-producing industries,6437401
+6095,Solano,CA,3,  Private services-providing industries,10466438
+6095,Solano,CA,4,  Government and government enterprises,3415913
+6097,Sonoma,CA,1,All Industries,20941027
+6097,Sonoma,CA,2,  Private goods-producing industries,4504065
+6097,Sonoma,CA,3,  Private services-providing industries,14121297
+6097,Sonoma,CA,4,  Government and government enterprises,2315665
+6099,Stanislaus,CA,1,All Industries,17039050
+6099,Stanislaus,CA,2,  Private goods-producing industries,5065538
+6099,Stanislaus,CA,3,  Private services-providing industries,9805527
+6099,Stanislaus,CA,4,  Government and government enterprises,2167985
+6101,Sutter,CA,1,All Industries,2792070
+6101,Sutter,CA,2,  Private goods-producing industries,601425
+6101,Sutter,CA,3,  Private services-providing industries,1844973
+6101,Sutter,CA,4,  Government and government enterprises,345672
+6103,Tehama,CA,1,All Industries,1301677
+6103,Tehama,CA,2,  Private goods-producing industries,320736
+6103,Tehama,CA,3,  Private services-providing industries,733623
+6103,Tehama,CA,4,  Government and government enterprises,247318
+6105,Trinity,CA,1,All Industries,273210
+6105,Trinity,CA,2,  Private goods-producing industries,31600
+6105,Trinity,CA,3,  Private services-providing industries,142399
+6105,Trinity,CA,4,  Government and government enterprises,99210
+6107,Tulare,CA,1,All Industries,13225789
+6107,Tulare,CA,2,  Private goods-producing industries,4660974
+6107,Tulare,CA,3,  Private services-providing industries,6139244
+6107,Tulare,CA,4,  Government and government enterprises,2425570
+6109,Tuolumne,CA,1,All Industries,1726026
+6109,Tuolumne,CA,2,  Private goods-producing industries,167516
+6109,Tuolumne,CA,3,  Private services-providing industries,1162386
+6109,Tuolumne,CA,4,  Government and government enterprises,396124
+6111,Ventura,CA,1,All Industries,46895460
+6111,Ventura,CA,2,  Private goods-producing industries,16276856
+6111,Ventura,CA,3,  Private services-providing industries,25525164
+6111,Ventura,CA,4,  Government and government enterprises,5093440
+6113,Yolo,CA,1,All Industries,10117496
+6113,Yolo,CA,2,  Private goods-producing industries,1497360
+6113,Yolo,CA,3,  Private services-providing industries,5071917
+6113,Yolo,CA,4,  Government and government enterprises,3548219
+6115,Yuba,CA,1,All Industries,2319728
+6115,Yuba,CA,2,  Private goods-producing industries,236957
+6115,Yuba,CA,3,  Private services-providing industries,821563
+6115,Yuba,CA,4,  Government and government enterprises,1261208
+8001,Adams,CO,1,All Industries,18730462
+8001,Adams,CO,2,  Private goods-producing industries,3532828
+8001,Adams,CO,3,  Private services-providing industries,12233974
+8001,Adams,CO,4,  Government and government enterprises,2963659
+8003,Alamosa,CO,1,All Industries,551564
+8003,Alamosa,CO,2,  Private goods-producing industries,75083
+8003,Alamosa,CO,3,  Private services-providing industries,350009
+8003,Alamosa,CO,4,  Government and government enterprises,126473
+8005,Arapahoe,CO,1,All Industries,34198561
+8005,Arapahoe,CO,2,  Private goods-producing industries,3954547
+8005,Arapahoe,CO,3,  Private services-providing industries,27401360
+8005,Arapahoe,CO,4,  Government and government enterprises,2842653
+8007,Archuleta,CO,1,All Industries,349112
+8007,Archuleta,CO,2,  Private goods-producing industries,54866
+8007,Archuleta,CO,3,  Private services-providing industries,250227
+8007,Archuleta,CO,4,  Government and government enterprises,44019
+8009,Baca,CO,1,All Industries,117957
+8009,Baca,CO,2,  Private goods-producing industries,43342
+8009,Baca,CO,3,  Private services-providing industries,44997
+8009,Baca,CO,4,  Government and government enterprises,29617
+8011,Bent,CO,1,All Industries,103899
+8011,Bent,CO,2,  Private goods-producing industries,25315
+8011,Bent,CO,3,  Private services-providing industries,53679
+8011,Bent,CO,4,  Government and government enterprises,24905
+8013,Boulder,CO,1,All Industries,21331648
+8013,Boulder,CO,2,  Private goods-producing industries,3100884
+8013,Boulder,CO,3,  Private services-providing industries,15943578
+8013,Boulder,CO,4,  Government and government enterprises,2287186
+8014,Broomfield,CO,1,All Industries,7021068
+8014,Broomfield,CO,2,  Private goods-producing industries,3144994
+8014,Broomfield,CO,3,  Private services-providing industries,3779815
+8014,Broomfield,CO,4,  Government and government enterprises,96259
+8015,Chaffee,CO,1,All Industries,418798
+8015,Chaffee,CO,2,  Private goods-producing industries,67750
+8015,Chaffee,CO,3,  Private services-providing industries,245515
+8015,Chaffee,CO,4,  Government and government enterprises,105534
+8017,Cheyenne,CO,1,All Industries,87492
+8017,Cheyenne,CO,2,  Private goods-producing industries,41779
+8017,Cheyenne,CO,3,  Private services-providing industries,31956
+8017,Cheyenne,CO,4,  Government and government enterprises,13757
+8019,Clear Creek,CO,1,All Industries,427391
+8019,Clear Creek,CO,2,  Private goods-producing industries,250110
+8019,Clear Creek,CO,3,  Private services-providing industries,133140
+8019,Clear Creek,CO,4,  Government and government enterprises,44141
+8021,Conejos,CO,1,All Industries,110362
+8021,Conejos,CO,2,  Private goods-producing industries,31773
+8021,Conejos,CO,3,  Private services-providing industries,50788
+8021,Conejos,CO,4,  Government and government enterprises,27800
+8023,Costilla,CO,1,All Industries,88493
+8023,Costilla,CO,2,  Private goods-producing industries,17211
+8023,Costilla,CO,3,  Private services-providing industries,57429
+8023,Costilla,CO,4,  Government and government enterprises,13853
+8025,Crowley,CO,1,All Industries,113294
+8025,Crowley,CO,2,  Private goods-producing industries,44289
+8025,Crowley,CO,3,  Private services-providing industries,37106
+8025,Crowley,CO,4,  Government and government enterprises,31898
+8027,Custer,CO,1,All Industries,70597
+8027,Custer,CO,2,  Private goods-producing industries,22026
+8027,Custer,CO,3,  Private services-providing industries,36692
+8027,Custer,CO,4,  Government and government enterprises,11879
+8029,Delta,CO,1,All Industries,743174
+8029,Delta,CO,2,  Private goods-producing industries,274009
+8029,Delta,CO,3,  Private services-providing industries,327287
+8029,Delta,CO,4,  Government and government enterprises,141879
+8031,Denver,CO,1,All Industries,66577646
+8031,Denver,CO,2,  Private goods-producing industries,9770237
+8031,Denver,CO,3,  Private services-providing industries,50694713
+8031,Denver,CO,4,  Government and government enterprises,6112696
+8033,Dolores,CO,1,All Industries,36521
+8033,Dolores,CO,2,  Private goods-producing industries,9252
+8033,Dolores,CO,3,  Private services-providing industries,18343
+8033,Dolores,CO,4,  Government and government enterprises,8926
+8035,Douglas,CO,1,All Industries,13808387
+8035,Douglas,CO,2,  Private goods-producing industries,1242666
+8035,Douglas,CO,3,  Private services-providing industries,11812090
+8035,Douglas,CO,4,  Government and government enterprises,753632
+8037,Eagle,CO,1,All Industries,3796253
+8037,Eagle,CO,2,  Private goods-producing industries,224515
+8037,Eagle,CO,3,  Private services-providing industries,3361306
+8037,Eagle,CO,4,  Government and government enterprises,210433
+8039,Elbert,CO,1,All Industries,323042
+8039,Elbert,CO,2,  Private goods-producing industries,84201
+8039,Elbert,CO,3,  Private services-providing industries,190907
+8039,Elbert,CO,4,  Government and government enterprises,47934
+8041,El Paso,CO,1,All Industries,26676740
+8041,El Paso,CO,2,  Private goods-producing industries,2748890
+8041,El Paso,CO,3,  Private services-providing industries,15972702
+8041,El Paso,CO,4,  Government and government enterprises,7955148
+8043,Fremont,CO,1,All Industries,947060
+8043,Fremont,CO,2,  Private goods-producing industries,133357
+8043,Fremont,CO,3,  Private services-providing industries,407370
+8043,Fremont,CO,4,  Government and government enterprises,406333
+8045,Garfield,CO,1,All Industries,2583762
+8045,Garfield,CO,2,  Private goods-producing industries,618625
+8045,Garfield,CO,3,  Private services-providing industries,1644577
+8045,Garfield,CO,4,  Government and government enterprises,320561
+8047,Gilpin,CO,1,All Industries,501661
+8047,Gilpin,CO,2,  Private goods-producing industries,8375
+8047,Gilpin,CO,3,  Private services-providing industries,462234
+8047,Gilpin,CO,4,  Government and government enterprises,31051
+8049,Grand,CO,1,All Industries,624980
+8049,Grand,CO,2,  Private goods-producing industries,57361
+8049,Grand,CO,3,  Private services-providing industries,482190
+8049,Grand,CO,4,  Government and government enterprises,85430
+8051,Gunnison,CO,1,All Industries,792280
+8051,Gunnison,CO,2,  Private goods-producing industries,304024
+8051,Gunnison,CO,3,  Private services-providing industries,372011
+8051,Gunnison,CO,4,  Government and government enterprises,116245
+8053,Hinsdale,CO,1,All Industries,18679
+8053,Hinsdale,CO,2,  Private goods-producing industries,3671
+8053,Hinsdale,CO,3,  Private services-providing industries,10968
+8053,Hinsdale,CO,4,  Government and government enterprises,4040
+8055,Huerfano,CO,1,All Industries,140198
+8055,Huerfano,CO,2,  Private goods-producing industries,17720
+8055,Huerfano,CO,3,  Private services-providing industries,99111
+8055,Huerfano,CO,4,  Government and government enterprises,23367
+8057,Jackson,CO,1,All Industries,53347
+8057,Jackson,CO,2,  Private goods-producing industries,11786
+8057,Jackson,CO,3,  Private services-providing industries,31562
+8057,Jackson,CO,4,  Government and government enterprises,9998
+8059,Jefferson,CO,1,All Industries,21362769
+8059,Jefferson,CO,2,  Private goods-producing industries,3891255
+8059,Jefferson,CO,3,  Private services-providing industries,14350206
+8059,Jefferson,CO,4,  Government and government enterprises,3121308
+8061,Kiowa,CO,1,All Industries,70129
+8061,Kiowa,CO,2,  Private goods-producing industries,33803
+8061,Kiowa,CO,3,  Private services-providing industries,23823
+8061,Kiowa,CO,4,  Government and government enterprises,12503
+8063,Kit Carson,CO,1,All Industries,399830
+8063,Kit Carson,CO,2,  Private goods-producing industries,147133
+8063,Kit Carson,CO,3,  Private services-providing industries,215174
+8063,Kit Carson,CO,4,  Government and government enterprises,37523
+8065,Lake,CO,1,All Industries,205710
+8065,Lake,CO,2,  Private goods-producing industries,105770
+8065,Lake,CO,3,  Private services-providing industries,60400
+8065,Lake,CO,4,  Government and government enterprises,39540
+8067,La Plata,CO,1,All Industries,2263686
+8067,La Plata,CO,2,  Private goods-producing industries,307797
+8067,La Plata,CO,3,  Private services-providing industries,1572825
+8067,La Plata,CO,4,  Government and government enterprises,383064
+8069,Larimer,CO,1,All Industries,11615652
+8069,Larimer,CO,2,  Private goods-producing industries,2298624
+8069,Larimer,CO,3,  Private services-providing industries,7387162
+8069,Larimer,CO,4,  Government and government enterprises,1929866
+8071,Las Animas,CO,1,All Industries,412501
+8071,Las Animas,CO,2,  Private goods-producing industries,110274
+8071,Las Animas,CO,3,  Private services-providing industries,214932
+8071,Las Animas,CO,4,  Government and government enterprises,87295
+8073,Lincoln,CO,1,All Industries,248655
+8073,Lincoln,CO,2,  Private goods-producing industries,29111
+8073,Lincoln,CO,3,  Private services-providing industries,161491
+8073,Lincoln,CO,4,  Government and government enterprises,58053
+8075,Logan,CO,1,All Industries,957602
+8075,Logan,CO,2,  Private goods-producing industries,306504
+8075,Logan,CO,3,  Private services-providing industries,514472
+8075,Logan,CO,4,  Government and government enterprises,136627
+8077,Mesa,CO,1,All Industries,5585262
+8077,Mesa,CO,2,  Private goods-producing industries,1147623
+8077,Mesa,CO,3,  Private services-providing industries,3749583
+8077,Mesa,CO,4,  Government and government enterprises,688056
+8079,Mineral,CO,1,All Industries,36862
+8079,Mineral,CO,2,  Private goods-producing industries,5506
+8079,Mineral,CO,3,  Private services-providing industries,27464
+8079,Mineral,CO,4,  Government and government enterprises,3893
+8081,Moffat,CO,1,All Industries,1013465
+8081,Moffat,CO,2,  Private goods-producing industries,195213
+8081,Moffat,CO,3,  Private services-providing industries,743059
+8081,Moffat,CO,4,  Government and government enterprises,75193
+8083,Montezuma,CO,1,All Industries,642252
+8083,Montezuma,CO,2,  Private goods-producing industries,132672
+8083,Montezuma,CO,3,  Private services-providing industries,355862
+8083,Montezuma,CO,4,  Government and government enterprises,153718
+8085,Montrose,CO,1,All Industries,1151941
+8085,Montrose,CO,2,  Private goods-producing industries,254743
+8085,Montrose,CO,3,  Private services-providing industries,696968
+8085,Montrose,CO,4,  Government and government enterprises,200230
+8087,Morgan,CO,1,All Industries,1317762
+8087,Morgan,CO,2,  Private goods-producing industries,543453
+8087,Morgan,CO,3,  Private services-providing industries,656960
+8087,Morgan,CO,4,  Government and government enterprises,117349
+8089,Otero,CO,1,All Industries,472896
+8089,Otero,CO,2,  Private goods-producing industries,90524
+8089,Otero,CO,3,  Private services-providing industries,290605
+8089,Otero,CO,4,  Government and government enterprises,91767
+8091,Ouray,CO,1,All Industries,129845
+8091,Ouray,CO,2,  Private goods-producing industries,33919
+8091,Ouray,CO,3,  Private services-providing industries,75894
+8091,Ouray,CO,4,  Government and government enterprises,20032
+8093,Park,CO,1,All Industries,213832
+8093,Park,CO,2,  Private goods-producing industries,36396
+8093,Park,CO,3,  Private services-providing industries,132716
+8093,Park,CO,4,  Government and government enterprises,44720
+8095,Phillips,CO,1,All Industries,189199
+8095,Phillips,CO,2,  Private goods-producing industries,77008
+8095,Phillips,CO,3,  Private services-providing industries,81474
+8095,Phillips,CO,4,  Government and government enterprises,30717
+8097,Pitkin,CO,1,All Industries,2051936
+8097,Pitkin,CO,2,  Private goods-producing industries,66495
+8097,Pitkin,CO,3,  Private services-providing industries,1822320
+8097,Pitkin,CO,4,  Government and government enterprises,163120
+8099,Prowers,CO,1,All Industries,400007
+8099,Prowers,CO,2,  Private goods-producing industries,132672
+8099,Prowers,CO,3,  Private services-providing industries,192139
+8099,Prowers,CO,4,  Government and government enterprises,75196
+8101,Pueblo,CO,1,All Industries,4956921
+8101,Pueblo,CO,2,  Private goods-producing industries,839669
+8101,Pueblo,CO,3,  Private services-providing industries,3299799
+8101,Pueblo,CO,4,  Government and government enterprises,817452
+8103,Rio Blanco,CO,1,All Industries,338885
+8103,Rio Blanco,CO,2,  Private goods-producing industries,178115
+8103,Rio Blanco,CO,3,  Private services-providing industries,91506
+8103,Rio Blanco,CO,4,  Government and government enterprises,69265
+8105,Rio Grande,CO,1,All Industries,317361
+8105,Rio Grande,CO,2,  Private goods-producing industries,106627
+8105,Rio Grande,CO,3,  Private services-providing industries,155848
+8105,Rio Grande,CO,4,  Government and government enterprises,54887
+8107,Routt,CO,1,All Industries,2035891
+8107,Routt,CO,2,  Private goods-producing industries,484167
+8107,Routt,CO,3,  Private services-providing industries,1439495
+8107,Routt,CO,4,  Government and government enterprises,112230
+8109,Saguache,CO,1,All Industries,135088
+8109,Saguache,CO,2,  Private goods-producing industries,68115
+8109,Saguache,CO,3,  Private services-providing industries,41099
+8109,Saguache,CO,4,  Government and government enterprises,25873
+8111,San Juan,CO,1,All Industries,36116
+8111,San Juan,CO,2,  Private goods-producing industries,3108
+8111,San Juan,CO,3,  Private services-providing industries,28928
+8111,San Juan,CO,4,  Government and government enterprises,4079
+8113,San Miguel,CO,1,All Industries,492152
+8113,San Miguel,CO,2,  Private goods-producing industries,41719
+8113,San Miguel,CO,3,  Private services-providing industries,400561
+8113,San Miguel,CO,4,  Government and government enterprises,49872
+8115,Sedgwick,CO,1,All Industries,78181
+8115,Sedgwick,CO,2,  Private goods-producing industries,33568
+8115,Sedgwick,CO,3,  Private services-providing industries,28286
+8115,Sedgwick,CO,4,  Government and government enterprises,16327
+8117,Summit,CO,1,All Industries,2022214
+8117,Summit,CO,2,  Private goods-producing industries,126512
+8117,Summit,CO,3,  Private services-providing industries,1748855
+8117,Summit,CO,4,  Government and government enterprises,146847
+8119,Teller,CO,1,All Industries,634990
+8119,Teller,CO,2,  Private goods-producing industries,169075
+8119,Teller,CO,3,  Private services-providing industries,392742
+8119,Teller,CO,4,  Government and government enterprises,73173
+8121,Washington,CO,1,All Industries,145960
+8121,Washington,CO,2,  Private goods-producing industries,69800
+8121,Washington,CO,3,  Private services-providing industries,52515
+8121,Washington,CO,4,  Government and government enterprises,23645
+8123,Weld,CO,1,All Industries,9667115
+8123,Weld,CO,2,  Private goods-producing industries,3417894
+8123,Weld,CO,3,  Private services-providing industries,5377345
+8123,Weld,CO,4,  Government and government enterprises,871876
+8125,Yuma,CO,1,All Industries,572414
+8125,Yuma,CO,2,  Private goods-producing industries,360427
+8125,Yuma,CO,3,  Private services-providing industries,156845
+8125,Yuma,CO,4,  Government and government enterprises,55142
+9001,Fairfield,CT,1,All Industries,85990353
+9001,Fairfield,CT,2,  Private goods-producing industries,11270812
+9001,Fairfield,CT,3,  Private services-providing industries,70146997
+9001,Fairfield,CT,4,  Government and government enterprises,4572544
+9003,Hartford,CT,1,All Industries,74772073
+9003,Hartford,CT,2,  Private goods-producing industries,10239283
+9003,Hartford,CT,3,  Private services-providing industries,57662056
+9003,Hartford,CT,4,  Government and government enterprises,6870734
+9005,Litchfield,CT,1,All Industries,6726941
+9005,Litchfield,CT,2,  Private goods-producing industries,1743264
+9005,Litchfield,CT,3,  Private services-providing industries,4284842
+9005,Litchfield,CT,4,  Government and government enterprises,698835
+9007,Middlesex,CT,1,All Industries,7915203
+9007,Middlesex,CT,2,  Private goods-producing industries,1917519
+9007,Middlesex,CT,3,  Private services-providing industries,4982400
+9007,Middlesex,CT,4,  Government and government enterprises,1015284
+9009,New Haven,CT,1,All Industries,43175833
+9009,New Haven,CT,2,  Private goods-producing industries,6445831
+9009,New Haven,CT,3,  Private services-providing industries,31847959
+9009,New Haven,CT,4,  Government and government enterprises,4882044
+9011,New London,CT,1,All Industries,17202894
+9011,New London,CT,2,  Private goods-producing industries,3129323
+9011,New London,CT,3,  Private services-providing industries,9655154
+9011,New London,CT,4,  Government and government enterprises,4418416
+9013,Tolland,CT,1,All Industries,4098185
+9013,Tolland,CT,2,  Private goods-producing industries,587154
+9013,Tolland,CT,3,  Private services-providing industries,2289758
+9013,Tolland,CT,4,  Government and government enterprises,1221273
+9015,Windham,CT,1,All Industries,3919490
+9015,Windham,CT,2,  Private goods-producing industries,842422
+9015,Windham,CT,3,  Private services-providing industries,2505804
+9015,Windham,CT,4,  Government and government enterprises,571264
 10001,Kent,DE,1,All Industries,5877245
 10001,Kent,DE,2,  Private goods-producing industries,868609
 10001,Kent,DE,3,  Private services-providing industries,2953508
