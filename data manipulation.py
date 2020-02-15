@@ -62,3 +62,11 @@ data[['city','state']] = data['city_state'].str.split(', ', expand = True)
 data['score'] = data[123]*175+data[125]*375 + data[131]*750 + data[132]*1500
 
 data.head()
+
+#------------------------ Filter 3-digit NACIS ------------------------
+data = data[data['naics'].str.len() == 3]
+
+
+
+
+
