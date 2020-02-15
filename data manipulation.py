@@ -48,4 +48,6 @@ raw_data.head(10)
 #still need to assign column names
 
 
+# Change Column names
+raw_data.columns = ['GEO_id', 'GEO_id2', 'GEO_display-label', 'NAICS_id', 'NAICS_display-label', 'RCPSZFE_id', 'RCPSZFE_display-label', 'YEAR_id',	'ESTAB']
 
