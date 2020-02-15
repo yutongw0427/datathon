@@ -47,5 +47,7 @@ data = data.fillna(0)
 data=data.reset_index()
 data[['zipcode','naics']] = data.GEO_NAICS.str.split('_', expand=True)
 
-
+data['score'] = data[123]*175+data[125]*375 + data[131]*750 + data[132]*1500
+zip_sum = data.groupby('zipcode').agg('sum')
+zip_sum = zip_sum.reset_index()
 
