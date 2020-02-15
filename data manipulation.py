@@ -63,9 +63,45 @@ data['score'] = data[123]*175+data[125]*375 + data[131]*750 + data[132]*1500
 
 data.head()
 
-#------------------------ Filter 3-digit NACIS ------------------------
+#------------------------ Filter 3-digit NACIS -----------------------------
 data = data[data['naics'].str.len() == 3]
 
+
+# ----------------------RETAIL DATA / LEN(NAICS) == 3: HIGHER CATEGORY-------  
+retail = data[data['naics'].astype(str).str.len()==3]
+zip_sum = retail.groupby('zipcode').agg('sum')
+zip_sum = retail.reset_index()
+zip_score = zip_sum.loc[:,['zipcode','naics','score']]
+
+retail_dominant_industry = retail.loc[retail.groupby('zipcode')['score'].idxmax()]
+
+from urllib.request import urlopen
+import json
+with urlopen('https://raw.githubusercontent.com/plotly/datasets/master/geojson-counties-fips.json') as response:
+    counties = json.load(response)
+
+#df = pd.read_csv("https://raw.githubusercontent.com/plotly/datasets/master/fips-unemp-16.csv",
+                   #dtype={"fips": str})
+
+import plotly.express as px
+
+fig = px.choropleth_mapbox(retail_dominant_industry, geojson=counties, locations='zipcode', color='naics',
+                           color_continuous_scale="Viridis",
+                           range_color=(0, 12),
+                           mapbox_style="carto-positron",
+                           zoom=3, center = {"lat": 37.0902, "lon": -95.7129},
+                           opacity=0.5,
+                           labels={'industry':'Dominant'}
+                          )
+fig.update_layout(margin={"r":0,"t":0,"l":0,"b":0})
+fig.show()
+# ----------- TOTAL SCORE FOR EACH INDUSTRY TYPE -----------------------
+retail.groupby('naics').agg('sum').sort_values('score', ascending=False)
+
+# HUMAN SELECTED TOP 4 SCORE 
+top_industry = ['447','448','445','441']
+# INDUSTRY NAME FOR TOP 4
+[naics_dict[i] for i in top_industry]
 
 
 
