@@ -49,7 +49,7 @@ raw_data.head(10)
 
 
 # Change Column names
-raw_data.columns = ['GEO_id', 'GEO_id2', 'GEO_display-label', 'NAICS_id', 'NAICS_display-label', 'RCPSZFE_id', 'RCPSZFE_display-label', 'YEAR_id',	'ESTAB']
+raw_data.columns = ['GEO_id', 'GEO_id2', 'GEO_display_label', 'NAICS_id', 'NAICS_display_label', 'RCPSZFE_id', 'RCPSZFE_display_label', 'YEAR_id','ESTAB']
 
 # Convert column types to object
 # Only 'ESTAB' is int
