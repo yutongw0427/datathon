@@ -31,47 +31,21 @@ part1 = pd.read_csv('Part 1.csv')
 
 
 # Read Data
-part1 = pd.read_csv('Part 1.csv', skiprows=1)
-part2 = pd.read_csv('Part 2.csv', skiprows=1)
-part3 = pd.read_csv('Part 3.csv', skiprows=1)
-part4a = pd.read_csv('Part 4a.csv', skiprows=1)
-part4b = pd.read_csv('Part 4b.csv', skiprows=1)
-part5 = pd.read_csv('Part 5.csv', skiprows=1)
+
+import glob
+# i put my csv files with my .py file under the same folder.
+file_name = []
+for file in glob.glob("Part*.csv"):
+    file_name.append(file)
+file_name.sort()
 
 
-# In[25]:
-
-
-# Combine the data
-data = pd.concat([part1, part2, part3, part4a, part5, part5])
-
-
-# In[26]:
-
-
-data.shape
-
-
-# In[27]:
-
-
-data.head()
-
-
-# In[17]:
-
-
-data['YEAR.id'].unique()
-
-
-# In[28]:
-
-
-
-
-
-# In[ ]:
-
+import pandas as pd
+raw_data = pd.DataFrame()
+dfs = [pd.read_csv(f, skiprows=2, header=None) for f in file_name]
+raw_data=pd.concat(dfs, ignore_index = True)
+raw_data.head(10)
+#still need to assign column names
 
 
 
