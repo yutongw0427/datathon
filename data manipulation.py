@@ -51,3 +51,16 @@ raw_data.head(10)
 # Change Column names
 raw_data.columns = ['GEO_id', 'GEO_id2', 'GEO_display-label', 'NAICS_id', 'NAICS_display-label', 'RCPSZFE_id', 'RCPSZFE_display-label', 'YEAR_id',	'ESTAB']
 
+# Convert column types to object
+# Only 'ESTAB' is int
+for col in ['GEO_id2', 'RCPSZFE_id', 'YEAR_id']:
+    raw_data[col] = raw_data[col].astype('object')
+raw_data.dtypes
+
+
+
+
+
+
+
+
