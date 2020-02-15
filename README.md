@@ -10,3 +10,6 @@
 6. regression-coefficient
    xgboost- feature importance
 7. check attributes correlation
+
+
+城市，州 2012 人口 https://www2.census.gov/programs-surveys/popest/datasets/2010-2012/cities/totals/
