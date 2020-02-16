@@ -2,21 +2,19 @@
 
 ### When validating the code, all datasets have to be under the same folder with code.
 
-Code and Datasets are all in the zipfile Datasets_Code
+Code and Datasets are all in the zipfile Datasets_Code besides the Part 1.csv ... Part 5.csv.
 
-1. Part 1.csv ... Part 5.csv 
+1. uszips.csv
 
-2. uszips.csv
+2. pop-by-zip-code.csv
 
-3. pop-by-zip-code.csv
+3. Median_age_by_ZIP_code.csv
 
-4. Median_age_by_ZIP_code.csv
+4. 12zpallagi.csv (in the zip_ Individual Income Tax Statistics.zip)
 
-5. 12zpallagi.csv (in the zip_ Individual Income Tax Statistics.zip)
+5. state_sales_tax_rate.csv
 
-6. state_sales_tax_rate.csv
-
-7. unemp_rate.csv
+6. unemp_rate.csv
 
 
 
