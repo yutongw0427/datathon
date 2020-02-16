@@ -85,13 +85,16 @@ import xgboost as xgb
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import mean_squared_error
 X = pd.get_dummies(retail['industry'], prefix='indus')
-X = pd.concat([X,retail[['pop_2012', 'wage',  'median_age']], pd.get_dummies(retail['state'], prefix='state')], axis =1)
+X = pd.concat([X,retail[['pop_density', 'area', 'wage',  'median_age']], pd.get_dummies(retail['state'], prefix='state')], axis =1)
 y = retail[['score']]
 
 data_matrix = xgb.DMatrix(data=X,label=y)
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=123)
-xg_reg = xgb.XGBRegressor(objective ='reg:linear', colsample_bytree = 0.3, learning_rate = 0.1,
-                max_depth = 5, alpha = 10, n_estimators = 10)
+xg_reg = xgb.XGBRegressor(objective ="reg:squarederror", colsample_bytree = 0.3, learning_rate = 0.3,
+                max_depth = 6, alpha = 5, n_estimators = 10)
 xg_reg.fit(X_train,y_train)
 xgb.plot_importance(xg_reg)
 plt.show()
+preds = xg_reg.predict(X_test)
+rmse = np.sqrt(mean_squared_error(y_test, preds))
+print(rmse)
