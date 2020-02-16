@@ -154,11 +154,12 @@ for i in range(sales_tax.shape[0]):
     sales_tax['state'][i] = us_state_abbrev[sales_tax['State'][i]]
 sales_tax = sales_tax[['state', 'Combined Rate']]
 
+unemp = read_csv("unemp_rate.csv")
 
 
 ## Combine the Data
 # Merge populatino, area, wage and median age
-retail = data.merge(pop_by_zip, how='left', on='zipcode').merge(area, how = 'left', on = 'zipcode').merge(wage, how = 'left', on = 'zipcode').merge(age, how = 'left', on = 'zipcode')
+retail = data.merge(pop_by_zip, how='left', on='zipcode').merge(area, how = 'left', on = 'zipcode').merge(wage, how = 'left', on = 'zipcode').merge(age, how = 'left', on = 'zipcode').merge(unemp, how = 'left', on = 'ZIP')
 
 # Calculate the density
 retail['pop_density'] = retail['pop_2012'] / retail['area']
