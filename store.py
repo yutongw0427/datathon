@@ -9,13 +9,11 @@ import matplotlib
 import matplotlib.pyplot as plt
 get_ipython().run_line_magic('matplotlib', 'inline')
 import seaborn as sb
-# Import for complex plots (like ggplot2)
-from plotnine import *
 
 # ------------------------------Read Data---------------------------------
+# -----IMPORTANT! CSV FILES ARE UNDER THE SAME FOLDER WITH PY CODE!-------
 
 import glob
-# -----IMPORTANT! CSV FILES ARE UNDER THE SAME FOLDER WITH PY CODE!-------
 file_name = []
 for file in glob.glob("Part*.csv"):
     file_name.append(file)
@@ -23,24 +21,22 @@ file_name.sort()
 raw_data = pd.DataFrame()
 dfs = [pd.read_csv(f, skiprows=2, header=None) for f in file_name]
 raw_data=pd.concat(dfs, ignore_index = True)
-raw_data.head(10)
 
 # ------------------------ADD COLUMNS NAMES--------------------------------
-# Change Column names
 raw_data.columns = ['GEO_id', 'GEO_id2', 'GEO_display_label', 'NAICS_id',
                     'NAICS_display_label', 'RCPSZFE_id', 'RCPSZFE_display_label', 'YEAR_id','ESTAB']
 
 # CREATE COLUMN CITY_STATE, CITY, ZIPCODE, AND UNIQUE INDEX COMBINDED WITH ZIPCODE AND NAICS_ID FOR LATER PIVOT USE
-raw_data['city_state']=raw_data['GEO_display_label'].str.replace(r'[^(]*\(|\)[^)]*', '')
-raw_data[['city','state']]=raw_data.city_state.str.split(', ',expand=True)
+raw_data['city_state'] = raw_data['GEO_display_label'].str.replace(r'[^(]*\(|\)[^)]*', '')
+raw_data[['city','state']] = raw_data.city_state.str.split(', ',expand=True)
 raw_data['zipcode'] = raw_data['GEO_display_label'].str.slice(start = 4, stop = 9)
-raw_data['zip_naics'] = raw_data['zipcode'].astype(str)+'_'+raw_data['NAICS_id'].astype(str)
+raw_data['zip_naics'] = raw_data['zipcode'].astype(str) + '_' + raw_data['NAICS_id'].astype(str)
 
-# CREATE MAP FOR NAICS_ID TO ITS DISPLAY_LABEL, AND ZIPCODE TO CITY_STATE
+# CREATE DICTIONARY FOR NAICS_ID TO ITS DISPLAY_LABEL, AND ZIPCODE TO CITY_STATE
 naics_dict = pd.Series(raw_data['NAICS_display_label'].values,index=raw_data['NAICS_id']).to_dict()
 zip_dict = pd.Series(raw_data['city_state'].values,index=raw_data['zipcode']).to_dict()
 
-#--------------------------pivot table transformation-----------------------
+#------------------------------PIVOT TRANSFORMATION-------------------------------
 # DATA: PIVOT: ROWS--->COLUMNS, NEW COLUMN WILL BE THE RCPSZFE_id
 data=pd.DataFrame(raw_data.pivot(index='zip_naics', columns='RCPSZFE_id',values='ESTAB'))
 data=data.fillna(0)
@@ -52,17 +48,15 @@ data['industry']=data['naics'].map(naics_dict)
 data['city_state'] = data['zipcode'].map(zip_dict)
 data[['city','state']] = data['city_state'].str.split(', ', expand = True)
 
-#------------------------compute score ------------------------
-data['score'] = data[123]*175+data[125]*375 + data[131]*750 + data[132]*1500
+# ---------------------------compute score --------------------------
+# We use mean value of the bin and multiply it with the number of establisments in that zipcode for every category. 
+data['score'] = (data[123]*175+data[125]*375 + data[131]*750 + data[132]*1500)*1000
 
-data.head()
 
-
-# ----------------------RETAIL DATA / LEN(NAICS) == 3: HIGHER CATEGORY-------
+# ----------------------RETAIL DATA / LEN(NAICS) == 3: USE ONLY HIGHER CATEGORY-------
 retail = data[data['naics'].astype(str).str.len()==3]
 
-
-# ---------------------- Merge 5 Datasets ----------------------
+# ---------------------- MERGE 5 OUTER DATA SOURCES ----------------------
 ## US zip information 2020 to get the zipcode area
 uszips = pd.read_csv('uszips.csv')
 uszips.rename(columns={'zip': 'zipcode'}, inplace=True)
@@ -153,13 +147,16 @@ sales_tax['state'] = 'NA'
 for i in range(sales_tax.shape[0]):
     sales_tax['state'][i] = us_state_abbrev[sales_tax['State'][i]]
 sales_tax = sales_tax[['state', 'Combined Rate']]
+## unemployment rate for each zipcode
+unemp = read_csv("unemp_rate.csv", dtype:{'zipcode':np.str})
+unemp['zipcode'] = unemp['zipcode'].str.zfill(5)
 
-unemp = read_csv("unemp_rate.csv")
 
-
-## Combine the Data
+# ----------------------------------Combine the Data-----------------------------------
 # Merge populatino, area, wage and median age
-retail = data.merge(pop_by_zip, how='left', on='zipcode').merge(area, how = 'left', on = 'zipcode').merge(wage, how = 'left', on = 'zipcode').merge(age, how = 'left', on = 'zipcode').merge(unemp, how = 'left', on = 'ZIP')
+retail = data.merge(pop_by_zip, how='left', on='zipcode').merge(area, how = 'left', on = 'zipcode'). \
+               merge(wage, how = 'left', on = 'zipcode').merge(age, how = 'left', on = 'zipcode'). \
+                merge(unemp, how = 'left', on = 'zipcode')
 
 # Calculate the density
 retail['pop_density'] = retail['pop_2012'] / retail['area']
@@ -167,21 +164,18 @@ retail['pop_density'] = retail['pop_2012'] / retail['area']
 # Merge state sales tax rate
 retail = retail.merge(sales_tax, how='left', on='state')
 
-# ----------------------Aggregate and plot-----------------------------
-
+# ------------------------------------Aggregate and plot----------------------------------
 zip_sum = retail.groupby('zipcode').agg('sum')
 zip_sum = retail.reset_index()
 zip_score = zip_sum.loc[:,['zipcode','naics','score']]
 
 retail_dominant_industry = retail.loc[retail.groupby('zipcode')['score'].idxmax()]
 
+# DRAW THE DOMINANT INDUSTRY WHICH SALES MOST AT EACH ZIPCODE AREA
 from urllib.request import urlopen
 import json
 with urlopen('https://raw.githubusercontent.com/plotly/datasets/master/geojson-counties-fips.json') as response:
     counties = json.load(response)
-
-#df = pd.read_csv("https://raw.githubusercontent.com/plotly/datasets/master/fips-unemp-16.csv",
-                   #dtype={"fips": str})
 
 import plotly.express as px
 
@@ -202,40 +196,12 @@ retail.groupby('naics').agg('sum').sort_values('score', ascending=False)
 
 # HUMAN SELECTED TOP 4 SCORE
 top_industry = ['447','448','445','441']
-# INDUSTRY NAME FOR TOP 4
-[naics_dict[i] for i in top_industry]
+# SHOW THE INDUSTRY NAME FOR TOP 4 CATEGORY OF ESTABLISHMENTS
+print([naics_dict[i] for i in top_industry])
 
 
 
 
-#-----------------------------
-import geopandas as gpd
-# import folium as fo
-import matplotlib.pyplot as plt
-# import contextily
-import pandas as pd
-# usa = gpd.read_file('tl_2018_us_zcta510.shp')
-data = pd.read_csv("sample.csv")
-zipcd = pd.read_csv('zipcode.csv', delimiter=";")
-
-new = zipcd["geopoint"].str.split(",", n=1, expand=True)
-
-# making separate first name column from new data frame
-data["lat"] = new[0].astype(float)
-# making separate last name column from new data frame
-data["long"] = new[1].astype(float)
-
-print(data.describe())
-point = gpd.GeoDataFrame(data, geometry = gpd.points_from_xy(data.lat, data.long))
-
-
-fig, ax = plt.subplot(figsize=(15,15))
-point.plot(ax=ax)
-
-# # contextily.add_basemap(ax)
-# # plt.show()
-#
-# print(point.head())
 
 # --------------model-----------------------
 import xgboost as xgb
