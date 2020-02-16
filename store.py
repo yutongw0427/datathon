@@ -26,6 +26,7 @@ raw_data=pd.concat(dfs, ignore_index = True)
 raw_data.columns = ['GEO_id', 'GEO_id2', 'GEO_display_label', 'NAICS_id',
                     'NAICS_display_label', 'RCPSZFE_id', 'RCPSZFE_display_label', 'YEAR_id','ESTAB']
 
+
 # CREATE COLUMN CITY_STATE, CITY, ZIPCODE, AND UNIQUE INDEX COMBINDED WITH ZIPCODE AND NAICS_ID FOR LATER PIVOT USE
 raw_data['city_state'] = raw_data['GEO_display_label'].str.replace(r'[^(]*\(|\)[^)]*', '')
 raw_data[['city','state']] = raw_data.city_state.str.split(', ',expand=True)
@@ -218,3 +219,57 @@ xg_reg = xgb.XGBRegressor(objective ='reg:linear', colsample_bytree = 0.3, learn
 xg_reg.fit(X_train,y_train)
 xgb.plot_importance(xg_reg)
 plt.show()
+
+
+
+
+
+
+
+
+
+# --------------Model Grid Search-----------------------
+import xgboost as xgb
+from sklearn.model_selection import train_test_split
+from sklearn.metrics import mean_squared_error
+
+
+X = pd.get_dummies(retail['industry'], prefix='indus').astype('int')
+X2 = pd.get_dummies(retail['state'], prefix='state').astype('int')
+X = pd.concat([X,retail[['pop_density', 'wage',  'median_age', 'area', 'unemp_reate', 'Combined Rate']], X2], axis =1)
+y = np.log(retail[['score']])
+ind = retail['score'] != 0
+X = X[ind]
+y = y[ind]
+
+data_matrix = xgb.DMatrix(data=X,label=y)
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=123)
+
+from sklearn.model_selection import GridSearchCV
+paras = {"objective":"reg:squarederror", 'colsample_bytree': 0.4, 'subsample':0.8}
+params = {
+    # Parameters that we are going to tune.
+    'max_depth':6,
+    'min_child_weight': 1,
+    'learning_rate':.3,
+    'subsample': 0.8,
+    'colsample_bytree': 0.3,
+    'objective':'reg:squarederror',
+    'n_estimators': 140
+}
+
+
+param_test1 = {
+    'max_depth':range(4,10,2),
+    'learning_rate': np.arange(0.1, 0.8, 0.2),
+    'min_child_weight':range(1,6,2)
+}
+
+
+
+gsearch1 = GridSearchCV(estimator = xgb.XGBRegressor(params = params, seed = 123), 
+ param_grid = param_test1, scoring= 'neg_mean_squared_error', n_jobs=4,iid=False, cv=10)
+
+gsearch1.fit(X_train, y_train)
+gsearch1.grid_scores_, gsearch1.best_params_, gsearch1.best_score_
+
