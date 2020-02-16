@@ -63,12 +63,38 @@ data['score'] = data[123]*175+data[125]*375 + data[131]*750 + data[132]*1500
 
 data.head()
 
-#------------------------ Filter 3-digit NACIS -----------------------------
-data = data[data['naics'].str.len() == 3]
-
 
 # ----------------------RETAIL DATA / LEN(NAICS) == 3: HIGHER CATEGORY-------  
 retail = data[data['naics'].astype(str).str.len()==3]
+
+
+# ---------------------- Merge 3 Datasets ----------------------
+
+## Read population by zipcode
+pop_by_zip = pd.read_csv('pop-by-zip-code.csv')
+pop_by_zip = pop_by_zip[['zip_code', 'y-2012']]
+pop_by_zip.columns = ['zipcode', 'pop_2012']
+pop_by_zip['zipcode'] = pop_by_zip['zipcode'].astype('str').str.zfill(5) # Fill 0 before zipcode
+
+## Read Median Age
+age = pd.read_csv('Median_age_by_ZIP_code.csv')
+age.columns = ['zipcode', 'population', 'median_age']
+age['zipcode'] = age.zipcode.astype('str').str.zfill(5)
+age = age[['zipcode', 'median_age']]
+
+## Read Tax and Income
+income = pd.read_csv('12zpallagi.csv') # We probably only need column zipcode and A00200
+income['zipcode'] = income['zipcode'].astype('str').str.zfill(5)
+wage = income[['zipcode','A00200']]
+wage.columns = ['zipcode', 'wage']
+
+
+## Combine the Data
+retail = retail.merge(pop_by_zip, how='left', on='zipcode').merge(wage, how = 'left', on = 'zipcode').merge(age, how = 'left', on = 'zipcode')
+
+
+# ----------------------Aggregate and plot-----------------------------  
+
 zip_sum = retail.groupby('zipcode').agg('sum')
 zip_sum = retail.reset_index()
 zip_score = zip_sum.loc[:,['zipcode','naics','score']]
@@ -95,6 +121,8 @@ fig = px.choropleth_mapbox(retail_dominant_industry, geojson=counties, locations
                           )
 fig.update_layout(margin={"r":0,"t":0,"l":0,"b":0})
 fig.show()
+
+
 # ----------- TOTAL SCORE FOR EACH INDUSTRY TYPE -----------------------
 retail.groupby('naics').agg('sum').sort_values('score', ascending=False)
 
