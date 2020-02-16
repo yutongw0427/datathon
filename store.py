@@ -42,6 +42,7 @@ zip_dict = pd.Series(raw_data['city_state'].values,index=raw_data['zipcode']).to
 data=pd.DataFrame(raw_data.pivot(index='zip_naics', columns='RCPSZFE_id',values='ESTAB'))
 data=data.fillna(0)
 # RESET_INDEX: MAKE PIVOT TABLE TO THE DATAFRAME IN PANDAS
+data=data.reset_index()
 # SPLIT THE UNIQUE_INDEX BACK TO zipcode AND naics
 data[['zipcode','naics']] = data.zip_naics.str.split('_',expand=True)
 # CONVERT THE NACIS_ID BACK TO INDUSTRY, TEXT FORM AND ADD COLUMN OF CITY AND STATE
@@ -201,9 +202,6 @@ top_industry = ['447','448','445','441']
 print([naics_dict[i] for i in top_industry])
 
 
-
-
-
 # --------------model-----------------------
 import xgboost as xgb
 from sklearn.model_selection import train_test_split
@@ -219,9 +217,6 @@ xg_reg = xgb.XGBRegressor(objective ='reg:linear', colsample_bytree = 0.3, learn
 xg_reg.fit(X_train,y_train)
 xgb.plot_importance(xg_reg)
 plt.show()
-
-
-
 
 
 
