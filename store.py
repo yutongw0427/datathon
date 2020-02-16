@@ -62,7 +62,14 @@ data.head()
 retail = data[data['naics'].astype(str).str.len()==3]
 
 
-# ---------------------- Merge 3 Datasets ----------------------
+# ---------------------- Merge 5 Datasets ----------------------
+## US zip information 2020 to get the zipcode area
+uszips = pd.read_csv('uszips.csv')
+uszips.rename(columns={'zip': 'zipcode'}, inplace=True)
+uszips['zipcode'] = uszips['zipcode'].astype('str').str.zfill(5)
+uszips.head()
+uszips['area'] = uszips['population'] / uszips['density']
+area = uszips[['zipcode', 'area']]
 
 ## Read population by zipcode
 pop_by_zip = pd.read_csv('pop-by-zip-code.csv')
@@ -81,11 +88,86 @@ income = pd.read_csv('12zpallagi.csv') # We probably only need column zipcode an
 income['zipcode'] = income['zipcode'].astype('str').str.zfill(5)
 wage = income[['zipcode','A00200']]
 wage.columns = ['zipcode', 'wage']
+wage = wage.groupby('zipcode').mean()
+
+## sales tax
+sales_tax = pd.read_csv('state_sales_tax_rate.csv')
+us_state_abbrev = {
+    'Alabama': 'AL',
+    'Alaska': 'AK',
+    'Arizona': 'AZ',
+    'Arkansas': 'AR',
+    'California': 'CA',
+    'Colorado': 'CO',
+    'Connecticut': 'CT',
+    'Delaware': 'DE',
+    'District of Columbia': 'DC',
+    'Florida': 'FL',
+    'Georgia': 'GA',
+    'Hawaii': 'HI',
+    'Idaho': 'ID',
+    'Illinois': 'IL',
+    'Indiana': 'IN',
+    'Iowa': 'IA',
+    'Kansas': 'KS',
+    'Kentucky': 'KY',
+    'Louisiana': 'LA',
+    'Maine': 'ME',
+    'Maryland': 'MD',
+    'Massachusetts': 'MA',
+    'Michigan': 'MI',
+    'Minnesota': 'MN',
+    'Mississippi': 'MS',
+    'Missouri': 'MO',
+    'Montana': 'MT',
+    'Nebraska': 'NE',
+    'Nevada': 'NV',
+    'New Hampshire': 'NH',
+    'New Jersey': 'NJ',
+    'New Mexico': 'NM',
+    'New York': 'NY',
+    'North Carolina': 'NC',
+    'North Dakota': 'ND',
+    'Northern Mariana Islands':'MP',
+    'Ohio': 'OH',
+    'Oklahoma': 'OK',
+    'Oregon': 'OR',
+    'Palau': 'PW',
+    'Pennsylvania': 'PA',
+    'Puerto Rico': 'PR',
+    'Rhode Island': 'RI',
+    'South Carolina': 'SC',
+    'South Dakota': 'SD',
+    'Tennessee': 'TN',
+    'Texas': 'TX',
+    'Utah': 'UT',
+    'Vermont': 'VT',
+    'Virgin Islands': 'VI',
+    'Virginia': 'VA',
+    'Washington': 'WA',
+    'West Virginia': 'WV',
+    'Wisconsin': 'WI',
+    'Wyoming': 'WY',
+}
+sales_tax['state'] = 'NA'
+for i in range(sales_tax.shape[0]):
+    sales_tax['state'][i] = us_state_abbrev[sales_tax['State'][i]]
+sales_tax = sales_tax[['state', 'Combined Rate']]
+
 
 
 ## Combine the Data
-retail = retail.merge(pop_by_zip, how='left', on='zipcode').merge(wage, how = 'left', on = 'zipcode').merge(age, how = 'left', on = 'zipcode')
+# Merge populatino, area, wage and median age
+retail = data.merge(pop_by_zip, how='left', on='zipcode').merge(area, how = 'left', on = 'zipcode').merge(wage, how = 'left', on = 'zipcode').merge(age, how = 'left', on = 'zipcode')
 
+# Calculate the density
+retail['pop_density'] = retail['pop_2012'] / retail['area']
+
+# Calculate scaled score
+retail['score'] = retail['score'] * 1000 / retail['pop_2012'] / retail['area']
+
+# Merge state sales tax rate
+retail = data.merge(sales_tax, how='left', on='state')
 
 # ----------------------Aggregate and plot-----------------------------
 
