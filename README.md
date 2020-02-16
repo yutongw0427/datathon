@@ -14,7 +14,7 @@ Datasets used in the code:
 
 4. Median_age_by_ZIP_code.csv
 
-5. 12zpallagi.csv
+5. 12zpallagi.csv (in the zip_ Individual Income Tax Statistics.zip)
 
 6. state_sales_tax_rate.csv
 
