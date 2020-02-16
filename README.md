@@ -2,9 +2,11 @@
 
 Code: store.py
 
+When validating the code, all datasets have to be under the same folder with code.
+
 Datasets used in the code:
 
-Part 1.csv ... Part 5.csv
+Part 1.csv ... Part 5.csv (too big, not upload)
 
 uszips.csv
 
