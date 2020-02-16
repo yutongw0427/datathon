@@ -167,7 +167,7 @@ retail['pop_density'] = retail['pop_2012'] / retail['area']
 retail['score'] = retail['score'] * 1000 / retail['pop_2012'] / retail['area']
 
 # Merge state sales tax rate
-retail = data.merge(sales_tax, how='left', on='state')
+retail = retail.merge(sales_tax, how='left', on='state')
 
 # ----------------------Aggregate and plot-----------------------------
 
