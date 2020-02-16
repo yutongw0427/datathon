@@ -163,9 +163,6 @@ retail = data.merge(pop_by_zip, how='left', on='zipcode').merge(area, how = 'lef
 # Calculate the density
 retail['pop_density'] = retail['pop_2012'] / retail['area']
 
-# Calculate scaled score
-retail['score'] = retail['score'] * 1000 / retail['pop_2012'] / retail['area']
-
 # Merge state sales tax rate
 retail = retail.merge(sales_tax, how='left', on='state')
 
