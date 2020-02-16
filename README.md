@@ -2,7 +2,7 @@
 
 ### When validating the code, all datasets have to be under the same folder with code.
 
-Code and Datasets are all in the zipfile Datasets_Code besides the Part 1.csv ... Part 5.csv.
+Code **Code_team29.py** and Datasets used in the code are in the zipfile Datasets_Code besides the Part 1.csv ... Part 5.csv.
 
 1. uszips.csv
 
