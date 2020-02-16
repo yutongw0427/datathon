@@ -149,7 +149,7 @@ for i in range(sales_tax.shape[0]):
     sales_tax['state'][i] = us_state_abbrev[sales_tax['State'][i]]
 sales_tax = sales_tax[['state', 'Combined Rate']]
 ## unemployment rate for each zipcode
-unemp = read_csv("unemp_rate.csv", dtype:{'zipcode':np.str})
+unemp = pd.read_csv("unemp_rate.csv", dtype={'zipcode':np.str})
 unemp['zipcode'] = unemp['zipcode'].str.zfill(5)
 
 
