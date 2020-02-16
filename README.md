@@ -2,11 +2,9 @@
 
 ### When validating the code, all datasets have to be under the same folder with code.
 
-Code: store.py
+Code and Datasets are all in the zipfile Datasets_Code
 
-Datasets used in the code:
-
-1. Part 1.csv ... Part 5.csv (too big, not upload)
+1. Part 1.csv ... Part 5.csv 
 
 2. uszips.csv
 
